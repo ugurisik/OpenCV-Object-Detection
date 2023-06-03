@@ -10,6 +10,7 @@ from unidecode import unidecode
 import requestclient
 import os
 import asyncio
+import logs
 os.environ["OPENCV_LOG_LEVEL"] = "SILENT"
 
 
@@ -38,6 +39,7 @@ class Process:
         self.unidecode = unidecode
         self.Requests = requestclient.RequestClient()
         self.asyncio = asyncio
+        self.logs = logs.Logs('log.txt')
 
         self.last_alerts = {
             0: self.time.strftime(
@@ -75,13 +77,16 @@ class Process:
         self.counter = 0
 
     def run(self):
-        print(
+        try:
+            print(
             f"Process.run() is running... {self.guid} {self.screen_shot_path} {self.alerts_path}")
-        loop = asyncio.new_event_loop()
-        self.asyncio.set_event_loop(loop)
-        loop.run_until_complete(self.CameraProcess())
-        loop.close()
-
+            loop = asyncio.new_event_loop()
+            self.asyncio.set_event_loop(loop)
+            loop.run_until_complete(self.CameraProcess())
+            loop.close()
+        except Exception as e:
+            self.logs.write_to_log(e)
+        
     def TakeScreenShot(self, frame, alarm_type, detections):
         print('------------------------------------------------------------------')
         print(f'Alarm Taken! Guid: {self.guid} Alarm Type: {alarm_type}')

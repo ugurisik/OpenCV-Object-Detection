@@ -1,7 +1,7 @@
 import os
 import time
 import requestclient
-
+import logs
 
 class CameraControl:
     def __init__(self, filePath):
@@ -10,37 +10,42 @@ class CameraControl:
         self.time = time
         self.cams = []
         self.request = requestclient.RequestClient()
+        self.logs = logs.Logs('log.txt')
 
     def run(self):
-        print("CameraControl.run() is running...")
-        while True:
-            files = self.os.listdir(self.filePath)
-            for file in files:
-                filepath = self.os.path.join(self.filePath, file)
-                filename = self.os.path.basename(filepath)
-                filename_without_extension = self.os.path.splitext(filename)[0]
-                file_extension = self.os.path.splitext(filename)[1]
-                file_modification_time = self.os.path.getmtime(filepath)
-                current_time_10min = self.time.strftime(
-                    '%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - 300))  # dosya düzenleme zamanı 5 dakikadan eski ise alarm gönderiyoruz
-                if file_extension == '.jpg':
-                    if not any(cam[0] == filename_without_extension for cam in self.cams):
-                        self.cams.append([filename_without_extension, False])
-                    modification_time = self.time.strftime(
-                        '%Y-%m-%d %H:%M:%S', self.time.localtime(file_modification_time))
-                    if modification_time < current_time_10min:
-                        print(
-                            f'Cam ID: {filename_without_extension} is not working')
-                        for cam in self.cams:
-                            if cam[0] == filename_without_extension and cam[1] == False:
-                                self.SendAlarm(cam[0])
-                    else:
-                        print(
-                            f'Cam ID: {filename_without_extension} is working')
-                    self.CheckCams()
-            time.sleep(15)
-            print(f'cams count: {len(self.cams)}')
 
+        
+            print("CameraControl.run() is running...")
+            while True:
+                try:
+                    files = self.os.listdir(self.filePath)
+                    for file in files:
+                        filepath = self.os.path.join(self.filePath, file)
+                        filename = self.os.path.basename(filepath)
+                        filename_without_extension = self.os.path.splitext(filename)[0]
+                        file_extension = self.os.path.splitext(filename)[1]
+                        file_modification_time = self.os.path.getmtime(filepath)
+                        current_time_10min = self.time.strftime(
+                            '%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - 300))  # dosya düzenleme zamanı 5 dakikadan eski ise alarm gönderiyoruz
+                        if file_extension == '.jpg':
+                            if not any(cam[0] == filename_without_extension for cam in self.cams):
+                                self.cams.append([filename_without_extension, False])
+                            modification_time = self.time.strftime(
+                                '%Y-%m-%d %H:%M:%S', self.time.localtime(file_modification_time))
+                            if modification_time < current_time_10min:
+                                print(
+                                    f'Cam ID: {filename_without_extension} is not working')
+                                for cam in self.cams:
+                                    if cam[0] == filename_without_extension and cam[1] == False:
+                                        self.SendAlarm(cam[0])
+                            else:
+                                print(
+                                    f'Cam ID: {filename_without_extension} is working')
+                            self.CheckCams()
+                    time.sleep(15)
+                    print(f'cams count: {len(self.cams)}')
+                except Exception as e:
+                    logs.write_to_log(e)
     def CheckCams(self):
         for cam in self.cams:
             if cam[1]:
