@@ -1,18 +1,64 @@
-monitoring: <StoppableThread(Thread-1 (monitor), started daemon 139945115121216)>--- Hanging Thread Detected ---
+--- Log inserted Time:2023-06-04 01:34:44  ---
+GUID: 1 Error: index 0 is out of bounds for dimension 0 with size 0
+--- Log inserted Time:2023-06-04 01:34:44  ---
+GUID: 5 Error: index 0 is out of bounds for dimension 0 with size 0
+--- Log inserted Time:2023-06-04 01:34:45  ---
+GUID: 8 Error: index 0 is out of bounds for dimension 0 with size 0
+--- Log inserted Time:2023-06-04 01:35:23  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:35:27  ---
 --- Program Started ---
---- Hanging Thread Detected ---
-module 'time' has no attribute 'datetime'
---- Hanging Thread Detected ---
---- Program Started --- Time:1685819184.5055723
---- Hanging Thread Detected ---
---- Program Started --- Time:2023-06-03 22:07:17
---- Log is inserted Time:2023-06-03 22:08:59  ---
+--- Log inserted Time:2023-06-04 01:35:45  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:36:52  ---
 --- Program Started ---
---- Log is inserted Time:2023-06-03 22:11:52  ---
+--- Log inserted Time:2023-06-04 01:37:52  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:40:03  ---
 --- Program Started ---
---- Log is inserted Time:2023-06-03 22:14:43  ---
+--- Log inserted Time:2023-06-04 01:41:08  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:42:58  ---
 --- Program Started ---
---- Log inserted Time:2023-06-03 22:20:57  ---
+--- Log inserted Time:2023-06-04 01:43:32  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:44:47  ---
 --- Program Started ---
---- Log inserted Time:2023-06-03 23:35:56  ---
+--- Log inserted Time:2023-06-04 01:45:23  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:45:59  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 01:46:32  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:46:49  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 01:47:42  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:47:47  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 01:50:57  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:52:00  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 01:52:34  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:53:09  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 01:54:16  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:54:45  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 01:55:03  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:55:20  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 01:56:02  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:56:31  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 01:57:30  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 01:58:21  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 01:58:38  ---
 --- Program Exited ---
