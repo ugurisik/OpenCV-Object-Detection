@@ -22,8 +22,11 @@ cameraList = {
                  (100.0, 0.0),
                  (100.0, 100.0)],
         'detection': [
-            {'class': 'person', 'confidence': 0.2},
-             {'class': 'couch', 'confidence': 0.2},
+            {'class': 'person', 'confidence': 0.5},
+            {'class': 'ylk-yok', 'confidence': 0.5},
+            {'class': 'ksk-yok', 'confidence': 0.5},
+            {'class': 'ylk', 'confidence': 0.5},
+            {'class': 'ksk', 'confidence': 0.5},
         ],
         'model': None,
         'alarm_sending_time': 10,
@@ -33,10 +36,11 @@ cameraList = {
         'url': 'rtsp://88.248.145.53:3839/media/video1',
         'zone': [],
         'detection': [
-            {
-                'class': 'person',
-                'confidence': 0.5,
-            }
+            {'class': 'person', 'confidence': 0.5},
+            {'class': 'ylk-yok', 'confidence': 0.5},
+            {'class': 'ksk-yok', 'confidence': 0.5},
+            {'class': 'ylk', 'confidence': 0.5},
+            {'class': 'ksk', 'confidence': 0.5},
         ],
         'model':None,
         'alarm_sending_time': 10,
@@ -51,10 +55,11 @@ cameraList = {
                  (99.0, 40.27399582866441),
                  (99.0, 0.0)],
         'detection': [
-            {
-                'class': 'person',
-                'confidence': 0.5,
-            }
+            {'class': 'person', 'confidence': 0.5},
+            {'class': 'ylk-yok', 'confidence': 0.5},
+            {'class': 'ksk-yok', 'confidence': 0.5},
+            {'class': 'ylk', 'confidence': 0.5},
+            {'class': 'ksk', 'confidence': 0.5},
         ],
         'model': None,
         'alarm_sending_time': 10,
@@ -64,31 +69,15 @@ cameraList = {
         'url': 'rtsp://88.248.145.53:554/user=admin_password=nTBCS19C_channel=1_stream=0.sdp?real_stream',
         'zone': [],
         'detection': [
-            {
-                'class': 'person',
-                'confidence': 0.5,
-            },
-            {
-                'class': 'refrigerator',
-                'confidence': 0.3,
-            }
+              {'class': 'person', 'confidence': 0.5},
+            {'class': 'ylk-yok', 'confidence': 0.5},
+            {'class': 'ksk-yok', 'confidence': 0.5},
+            {'class': 'ylk', 'confidence': 0.5},
+            {'class': 'ksk', 'confidence': 0.5},
         ],
         'model': None,
         'alarm_sending_time': 10,
-    },
-    '10': {
-        'name': 'Kapı',
-        'url': 'rtsp://admin:W9bz7rza!@5.tcp.eu.ngrok.io:14450',
-        'zone': [],
-        'detection': [
-            {
-                'class': 'person',
-                'confidence': 0.5,
-            }
-        ],
-        'model': None,
-        'alarm_sending_time': 10,
-    },
+    }
 }
 
 list = cameraList.items()
@@ -97,7 +86,7 @@ ScreenShotPath = './screenshots'
 AlertsPath = './alerts'
 WeightPath = './weights/'
 ApiURL = 'http://localhost:5000/api/cameras'
-DefaultModel = 'yolov8n.pt'
+DefaultModel = 'best-3.pt'
 port = 8080
 
 # model = torch.hub.load('ultralytics/yolov5', 'custom',
@@ -108,6 +97,7 @@ port = 8080
 #     torch.cuda.synchronize()
 
 model = YOLO(f'{WeightPath}{DefaultModel}')
+
 
 def DeleteFiles():
     for file in os.listdir(ScreenShotPath):

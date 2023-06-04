@@ -55,7 +55,7 @@ class Process:
             # self.model.to(self.device)
             # if self.torch.cuda.is_available():
             #     self.torch.cuda.synchronize()
-            model = YOLO(f'{self.weight_path}{model}')
+            model = YOLO(f'{self.weight_path}{model}',verbose=False)
         else:
             self.model = model
 
@@ -99,10 +99,13 @@ class Process:
         else:
             name = f"{self.screen_shot_path}/{self.guid}_{self.time.strftime('%Y%m%d-%H-%M-%S')}.jpg"
         self.cv2.imwrite(name, frame)
+        alarm_times = 0
         if self.last_alerts.get(str(alarm_type)) is None:
+            alarm_times = 0
             send_alert = True
         else:
-            if self.time.strftime('%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - self.alarm_sending_time)) > self.last_alerts.get(str(alarm_type)):
+            alarm_times = self.alarm_sending_time 
+            if self.time.strftime('%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - alarm_times)) >= self.last_alerts.get(str(alarm_type)):
                 send_alert = True
             else:
                 send_alert = False
@@ -151,6 +154,18 @@ class Process:
         self.cv2.putText(image, f'{label} {confidence}', (text_x, text_y), font,
                          font_scale, (0, 0, 0), font_thickness, self.cv2.LINE_AA)
 
+    async def ReConnect(self):
+        await self.asyncio.sleep(0.1)
+        self.cap.release()
+        cap = self.cv2.VideoCapture(self.url)
+        if not cap.isOpened():
+            print(f'Camera is not available... 10 Sec Waiting and Restarting... Guid: {self.guid}')
+            await self.asyncio.sleep(10)
+            self.ReConnect()
+        else:
+            return cap
+    
+
     async def CameraStuff(self, cap):
         while True:
             # time.sleep(0.1)
@@ -168,7 +183,8 @@ class Process:
                 if self.counter % int(self.fps) == 0:
                     alarm_type = 0
                     in_zone = False
-                    results = self.model(frame)
+                    results = self.model.predict(frame,verbose=False)
+                    # results = self.model(frame)
                     self.cv2.polylines(frame, np.array(
                         [self.polygons]), True, (0, 0, 255), 2)
                     self.ps.putBText(frame, 'SecuritEye is watching!', 10,
@@ -251,18 +267,13 @@ class Process:
     async def CameraProcess(self):
         while True:
             self.cap = self.cv2.VideoCapture(self.url)
+            
             if self.cap.isOpened():
                 response = await self.CameraStuff(self.cap)
                 if response == False:
-                    self.cap.release()
-                    self.time.sleep(5)
-                    print(
-                        f'Camera {self.guid} is not available... Restarting...')
+                    self.cap = await self.ReConnect()
                     continue
             else:
-                print(
-                    f"Camera is not available... Restarting... Guid: {self.guid}")
-                self.cap.release()
-                self.time.sleep(5)
+                self.cap = self.ReConnect()
                 continue
             await self.asyncio.sleep(0)

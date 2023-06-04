@@ -62,3 +62,65 @@ GUID: 8 Error: index 0 is out of bounds for dimension 0 with size 0
 --- Program Started ---
 --- Log inserted Time:2023-06-04 01:58:38  ---
 --- Program Exited ---
+--- Log inserted Time:2023-06-04 02:18:20  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 02:19:53  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 02:20:13  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 02:25:11  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 02:25:15  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 02:25:29  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 02:30:58  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 02:40:56  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 02:41:27  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 02:42:36  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 02:48:26  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 02:48:27  ---
+'list' object has no attribute 'names'
+--- Log inserted Time:2023-06-04 02:48:34  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 02:48:36  ---
+'list' object has no attribute 'names'
+--- Log inserted Time:2023-06-04 02:50:21  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 02:50:54  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 02:51:45  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 02:53:26  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 03:02:54  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 03:04:10  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 03:04:28  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 03:04:38  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 03:05:04  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 03:05:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 03:06:24  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 03:06:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 03:08:05  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 03:08:09  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 03:08:25  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 03:11:56  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 03:19:14  ---
+--- Program Exited ---
