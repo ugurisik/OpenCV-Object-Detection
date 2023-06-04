@@ -8,6 +8,7 @@ import subprocess
 import logs
 import time
 from ultralytics import YOLO
+import shutil
 
 logs = logs.Logs('log.txt')
 
@@ -86,7 +87,7 @@ ScreenShotPath = './screenshots'
 AlertsPath = './alerts'
 WeightPath = './weights/'
 ApiURL = 'http://localhost:5000/api/cameras'
-DefaultModel = 'best-3.pt'
+DefaultModel = 'yolov8n.pt'
 port = 8080
 
 # model = torch.hub.load('ultralytics/yolov5', 'custom',
@@ -100,8 +101,8 @@ model = YOLO(f'{WeightPath}{DefaultModel}')
 
 
 def DeleteFiles():
-    for file in os.listdir(ScreenShotPath):
-        os.remove(os.path.join(ScreenShotPath, file))
+    shutil.rmtree(ScreenShotPath)
+
     for file in os.listdir(AlertsPath):
         os.remove(os.path.join(AlertsPath, file))
 
@@ -121,11 +122,12 @@ def Port():
 
 
 
-
 def main():
     threads = []
     if not os.path.exists(ScreenShotPath):
         os.mkdir(ScreenShotPath, 0o777)
+    if not os.path.exists(ScreenShotPath+'/thumb'):
+        os.mkdir(ScreenShotPath+'/thumb', 0o777)
     if not os.path.exists(AlertsPath):
         os.mkdir(AlertsPath, 0o777)
 
@@ -167,3 +169,4 @@ try:
         main()
 except Exception as e:
     logs.write_to_log(e)
+

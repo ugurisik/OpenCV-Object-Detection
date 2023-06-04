@@ -14,7 +14,7 @@ class CameraControl:
 
     def run(self):
 
-        
+            
             print("CameraControl.run() is running...")
             while True:
                 try:
@@ -42,6 +42,7 @@ class CameraControl:
                                 print(
                                     f'Cam ID: {filename_without_extension} is working')
                             self.CheckCams()
+                    self.request.SendScreenShot()
                     time.sleep(15)
                     print(f'cams count: {len(self.cams)}')
                 except Exception as e:

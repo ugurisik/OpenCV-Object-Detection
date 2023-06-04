@@ -98,7 +98,8 @@ class Process:
             name = f"{self.alerts_path}/{self.guid}_{self.time.strftime('%Y%m%d-%H-%M-%S')}.jpg"
         else:
             name = f"{self.screen_shot_path}/{self.guid}_{self.time.strftime('%Y%m%d-%H-%M-%S')}.jpg"
-        self.cv2.imwrite(name, frame)
+        compression_params = [cv2.IMWRITE_JPEG_QUALITY, 75]
+        self.cv2.imwrite(name, frame, compression_params)
         alarm_times = 0
         if self.last_alerts.get(str(alarm_type)) is None:
             alarm_times = 0
@@ -130,9 +131,14 @@ class Process:
 
         detectionString = detectionString[:-1]
         name = f"{self.screen_shot_path}/{self.guid}.jpg"
-        self.cv2.imwrite(name, frame)
+        compression_params = [cv2.IMWRITE_JPEG_QUALITY, 75]
+        self.cv2.imwrite(name, frame, compression_params)
         with open(f"{self.screen_shot_path}/{self.guid}.txt", "w") as f:
             f.write(detectionString)
+
+        img=self.cv2.imread(f"{self.screen_shot_path}/{self.guid}.jpg")
+        thumb = self.cv2.resize(img, None,fx = 0.2, fy = 0.2)
+        self.cv2.imwrite(f"{self.screen_shot_path}/thumb/{self.guid}.jpg", thumb, compression_params)
 
         print(f'One ScreenShot Taken! Guid: {self.guid}')
 
