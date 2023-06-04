@@ -400,3 +400,31 @@ RequestClient.__init__() missing 1 required positional argument: 'filePath'
 --- Program Exited ---
 --- Log inserted Time:2023-06-04 06:13:01  ---
 --- Program Started ---
+--- Log inserted Time:2023-06-04 19:26:39  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 19:29:05  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 19:29:10  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 19:29:10  ---
+YOLO.__init__() got an unexpected keyword argument 'verbose'
+--- Log inserted Time:2023-06-04 19:30:08  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 19:30:10  ---
+'Process' object has no attribute 'model'
+--- Log inserted Time:2023-06-04 19:32:30  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 19:32:31  ---
+'Process' object has no attribute 'model'
+--- Log inserted Time:2023-06-04 19:33:56  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 19:33:57  ---
+'Process' object has no attribute 'model'
+--- Log inserted Time:2023-06-04 19:40:36  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 19:40:49  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-04 19:40:56  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 19:41:24  ---
+--- Program Exited ---

@@ -48,14 +48,15 @@ class Process:
         }
 
         if defModel is False:
-            self.cv2.logLevel = 'SILENT'
+            # self.cv2.logLevel = 'SILENT'
             # self.model = self.torch.hub.load(
             #     'ultralytics/yolov5', 'custom', f'{self.weight_path}{model}')
             # self.device = 'cuda' if self.torch.cuda.is_available() else 'cpu'
             # self.model.to(self.device)
             # if self.torch.cuda.is_available():
             #     self.torch.cuda.synchronize()
-            model = YOLO(f'{self.weight_path}{model}',verbose=False)
+            model = YOLO(f'{self.weight_path}{model}')
+            self.model = model
         else:
             self.model = model
 

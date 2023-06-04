@@ -29,7 +29,7 @@ cameraList = {
             {'class': 'ylk', 'confidence': 0.5},
             {'class': 'ksk', 'confidence': 0.5},
         ],
-        'model': None,
+        'model': 'best-3.pt',
         'alarm_sending_time': 10,
     },
     '5': {
@@ -141,7 +141,9 @@ def main():
         if mdl is None:
             mdl = model
             defModel = True
+            print(f'Using default model for {value["name"]}')
         else:
+            print(f'Using {mdl} for {value["name"]}')
             defModel = False
         process = Process(guid, value, ScreenShotPath,
                           AlertsPath, WeightPath, ApiURL, mdl, defModel)
