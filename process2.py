@@ -132,13 +132,13 @@ class Process:
 
         detectionString = detectionString[:-1]
         name = f"{self.screen_shot_path}/{self.guid}.jpg"
-        compression_params = [cv2.IMWRITE_JPEG_QUALITY, 75]
+        compression_params = [cv2.IMWRITE_JPEG_QUALITY, 100]
         self.cv2.imwrite(name, frame, compression_params)
         with open(f"{self.screen_shot_path}/{self.guid}.txt", "w") as f:
             f.write(detectionString)
 
         img=self.cv2.imread(f"{self.screen_shot_path}/{self.guid}.jpg")
-        thumb = self.cv2.resize(img, None,fx = 0.2, fy = 0.2)
+        thumb = self.cv2.resize(img, None,fx = 0.5, fy = 0.5)
         self.cv2.imwrite(f"{self.screen_shot_path}/thumb/{self.guid}.jpg", thumb, compression_params)
 
         print(f'One ScreenShot Taken! Guid: {self.guid}')
@@ -231,10 +231,6 @@ class Process:
                             for detect in self.detection:
                                 confi = detect['confidence']
                                 clss = detect['class']
-                                # detectionCount[str(clss)] = detectionCount.get(str(
-                                #             clss)) + 1
-                                # self.DrawRectWithText(frame, class_name, left, top, right, bottom, conf)
-                                # self.TakeOneScreenShot(frame,detectionCount)
                                 if class_name == clss and conf >= confi:
                                     if self.polygon_converted.is_empty:
                                         in_zone = True

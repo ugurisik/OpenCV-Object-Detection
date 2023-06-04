@@ -428,3 +428,279 @@ YOLO.__init__() got an unexpected keyword argument 'verbose'
 --- Program Started ---
 --- Log inserted Time:2023-06-04 19:41:24  ---
 --- Program Exited ---
+--- Log inserted Time:2023-06-04 19:43:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-04 22:48:09  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:48:09  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:48:09  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:48:09  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:48:24  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:48:24  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:48:24  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:48:24  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:48:39  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:48:39  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:48:39  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:48:39  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:48:55  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:48:55  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:48:55  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:48:55  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:49:10  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:49:10  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:49:10  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:49:10  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:49:26  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:49:26  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:49:26  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:49:26  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:49:41  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:49:41  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:49:41  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:49:41  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:49:56  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:49:56  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:49:56  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:49:56  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:50:12  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:50:12  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:50:12  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:50:12  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:50:27  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:50:27  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:50:27  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:50:27  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:50:43  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:50:43  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:50:43  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:50:43  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:50:58  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:50:58  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:50:58  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:50:58  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:51:13  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:51:13  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:51:13  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:51:13  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:51:29  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:51:29  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:51:29  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:51:29  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:51:44  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:51:44  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:51:44  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:51:44  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:52:00  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:52:00  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:52:00  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:52:00  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:52:15  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:52:15  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:52:15  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:52:15  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:52:31  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:52:31  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:52:31  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:52:31  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:52:46  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:52:46  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:52:46  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:52:46  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:53:01  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:53:01  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:53:01  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:53:01  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:53:17  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:53:17  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:53:17  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:53:17  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:53:32  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:53:32  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:53:32  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:53:32  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:53:48  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:53:48  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:53:48  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:53:48  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:54:03  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:54:03  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:54:03  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:54:03  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:54:18  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:54:18  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:54:18  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:54:18  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:54:34  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:54:34  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:54:34  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:54:34  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:54:49  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:54:49  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:54:49  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:54:49  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:55:05  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:55:05  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:55:05  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:55:05  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:55:20  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:55:20  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:55:20  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:55:20  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:55:36  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:55:36  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:55:36  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:55:36  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:55:51  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:55:51  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:55:51  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:55:51  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:56:06  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:56:06  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:56:06  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:56:06  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:56:22  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:56:22  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:56:22  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:56:22  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:56:37  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-04 22:56:37  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-04 22:56:37  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-04 22:56:37  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-04 22:56:43  ---
+--- Program Started ---
