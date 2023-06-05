@@ -47,7 +47,7 @@ class RequestClient:
             # if files is empty array 
             url = 'https://securiteye.ai/API/detect.php'
             try:
-                response = self.requests.post(url, files=files, data=datas, timeout=10)
+                response = self.requests.post(url, files=files, data=datas, timeout=(10,200))
                 response.raise_for_status()  # Non-2xx status codes will raise an exception
                 print(f'SendScreenShot() Response: {response.text}')
             except Exception as e:
@@ -77,7 +77,7 @@ class RequestClient:
                 # response = self.requests.get(url, timeout=3)
                 # response.raise_for_status()  # Raise an exception for non-2xx status codes
 
-                response = self.requests.post(url, files=files, data=data, timeout=10)
+                response = self.requests.post(url, files=files, data=data, timeout=(10,200))
                 response.raise_for_status()  # Non-2xx status codes will raise an exception
 
                 return True
