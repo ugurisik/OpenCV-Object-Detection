@@ -92,15 +92,12 @@ class Process:
         loop.close()
         
     def TakeScreenShot(self, frame, alarm_type, detections):
-        print('------------------------------------------------------------------')
-        print(f'Alarm Taken! Guid: {self.guid} Alarm Type: {alarm_type}')
-        print('------------------------------------------------------------------')
+       
         if alarm_type != 0:
             name = f"{self.alerts_path}/{self.guid}_{self.time.strftime('%Y%m%d-%H-%M-%S')}.jpg"
         else:
             name = f"{self.screen_shot_path}/{self.guid}_{self.time.strftime('%Y%m%d-%H-%M-%S')}.jpg"
-        compression_params = [cv2.IMWRITE_JPEG_QUALITY, 75]
-        self.cv2.imwrite(name, frame, compression_params)
+        
         alarm_times = 0
         if self.last_alerts.get(str(alarm_type)) is None:
             alarm_times = 0
@@ -113,6 +110,11 @@ class Process:
                 send_alert = False
 
         if send_alert:
+            print('------------------------------------------------------------------')
+            print(f'Alarm Taken! Guid: {self.guid} Alarm Type: {alarm_type}')
+            print('------------------------------------------------------------------')
+            compression_params = [cv2.IMWRITE_JPEG_QUALITY, 75]
+            self.cv2.imwrite(name, frame, compression_params)
             detectionString = ''
             for detect in detections:
                 if detections.get(detect) > 0:
@@ -143,9 +145,9 @@ class Process:
 
         print(f'One ScreenShot Taken! Guid: {self.guid}')
 
-    def DrawRectWithText(self, image, label, x, y, width, height, confidence=0.0):
+    def DrawRectWithText(self, image, label, x, y, width, height, confidence=0.0, color=(0, 0, 255)):
         confidence = round(confidence, 2)
-        self.cv2.rectangle(image, (x, y), (width, height), (0, 0, 255), 2)
+        self.cv2.rectangle(image, (x, y), (width, height), color, 2)
 
         font = self.cv2.FONT_HERSHEY_SIMPLEX
         font_scale = 0.8
@@ -157,7 +159,7 @@ class Process:
         text_y = y-10 if y >= 20 else y+height+30
 
         self.cv2.rectangle(image, (x, text_y+5), (x+text_width,
-                           text_y-text_height-5), (0, 0, 255), -1)
+                           text_y-text_height-5), color, -1)
         self.cv2.putText(image, f'{label} {confidence}', (text_x, text_y), font,
                          font_scale, (0, 0, 0), font_thickness, self.cv2.LINE_AA)
 
@@ -225,13 +227,14 @@ class Process:
                             right = max(int(center[0]+(max_border/2)), 0)
                             top = max(int(center[1]-(max_border/2)), 0)
                             bottom = max(int(center[1]+(max_border/2)), 0)
-
+                            
                             
 
                             for detect in self.detection:
                                 confi = detect['confidence']
                                 clss = detect['class']
                                 if class_name == clss and conf >= confi:
+                                    
                                     if self.polygon_converted.is_empty:
                                         in_zone = True
                                     else:
@@ -249,11 +252,14 @@ class Process:
                                             in_zone = False
 
                                     if in_zone:
+                                        color = (0, 0, 255)
                                         detectionCount[str(clss)] = detectionCount.get(str(
                                             clss)) + 1
                                         alarm_type = class_name
-                                        self.DrawRectWithText(frame, class_name, left, top, right, bottom, conf)
-
+                                    else:
+                                        color = (0, 255, 0)
+                                        
+                            self.DrawRectWithText(frame, class_name, left, top, right, bottom, conf,color)
                     if in_zone:
                         self.TakeScreenShot(
                             frame, alarm_type, detectionCount)

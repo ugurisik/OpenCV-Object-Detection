@@ -23,13 +23,13 @@ cameraList = {
                  (100.0, 0.0),
                  (100.0, 100.0)],
         'detection': [
-            {'class': 'person', 'confidence': 0.5},
-            {'class': 'ylk-yok', 'confidence': 0.5},
-            {'class': 'ksk-yok', 'confidence': 0.5},
-            {'class': 'ylk', 'confidence': 0.5},
-            {'class': 'ksk', 'confidence': 0.5},
+            {'class': 'ins', 'confidence': 0.3},
+            {'class': 'ylk-yok', 'confidence': 0.4},
+            {'class': 'ksk-yok', 'confidence': 0.4},
+            {'class': 'ylk', 'confidence': 0.4},
+            {'class': 'ksk', 'confidence': 0.4},
         ],
-        'model': 'best-3.pt',
+        'model': None,
         'alarm_sending_time': 10,
     },
     '5': {
@@ -37,11 +37,11 @@ cameraList = {
         'url': 'rtsp://88.248.145.53:3839/media/video1',
         'zone': [],
         'detection': [
-            {'class': 'person', 'confidence': 0.5},
-            {'class': 'ylk-yok', 'confidence': 0.5},
-            {'class': 'ksk-yok', 'confidence': 0.5},
-            {'class': 'ylk', 'confidence': 0.5},
-            {'class': 'ksk', 'confidence': 0.5},
+            {'class': 'ins', 'confidence': 0.3},
+            {'class': 'ylk-yok', 'confidence': 0.4},
+            {'class': 'ksk-yok', 'confidence': 0.4},
+            {'class': 'ylk', 'confidence': 0.4},
+            {'class': 'ksk', 'confidence': 0.4},
         ],
         'model':None,
         'alarm_sending_time': 10,
@@ -56,11 +56,11 @@ cameraList = {
                  (99.0, 40.27399582866441),
                  (99.0, 0.0)],
         'detection': [
-            {'class': 'person', 'confidence': 0.5},
-            {'class': 'ylk-yok', 'confidence': 0.5},
-            {'class': 'ksk-yok', 'confidence': 0.5},
-            {'class': 'ylk', 'confidence': 0.5},
-            {'class': 'ksk', 'confidence': 0.5},
+            {'class': 'ins', 'confidence': 0.3},
+            {'class': 'ylk-yok', 'confidence': 0.4},
+            {'class': 'ksk-yok', 'confidence': 0.4},
+            {'class': 'ylk', 'confidence': 0.4},
+            {'class': 'ksk', 'confidence': 0.4},
         ],
         'model': None,
         'alarm_sending_time': 10,
@@ -70,11 +70,11 @@ cameraList = {
         'url': 'rtsp://88.248.145.53:554/user=admin_password=nTBCS19C_channel=1_stream=0.sdp?real_stream',
         'zone': [],
         'detection': [
-              {'class': 'person', 'confidence': 0.5},
-            {'class': 'ylk-yok', 'confidence': 0.5},
-            {'class': 'ksk-yok', 'confidence': 0.5},
-            {'class': 'ylk', 'confidence': 0.5},
-            {'class': 'ksk', 'confidence': 0.5},
+              {'class': 'ins', 'confidence': 0.3},
+            {'class': 'ylk-yok', 'confidence': 0.4},
+            {'class': 'ksk-yok', 'confidence': 0.4},
+            {'class': 'ylk', 'confidence': 0.4},
+            {'class': 'ksk', 'confidence': 0.4},
         ],
         'model': None,
         'alarm_sending_time': 10,
@@ -87,7 +87,7 @@ ScreenShotPath = './screenshots'
 AlertsPath = './alerts'
 WeightPath = './weights/'
 ApiURL = 'http://localhost:5000/api/cameras'
-DefaultModel = 'yolov8n.pt'
+DefaultModel = 'best-4.pt'
 port = 8080
 
 # model = torch.hub.load('ultralytics/yolov5', 'custom',
@@ -171,4 +171,3 @@ try:
         main()
 except Exception as e:
     logs.write_to_log(e)
-
