@@ -275,14 +275,18 @@ class Process:
 
     async def CameraProcess(self):
         while True:
-            self.cap = self.cv2.VideoCapture(self.url)
-            
-            if self.cap.isOpened():
-                response = await self.CameraStuff(self.cap)
-                if response == False:
-                    self.cap = await self.ReConnect()
+            try:
+                self.cap = self.cv2.VideoCapture(self.url)
+                
+                if self.cap.isOpened():
+                    response = await self.CameraStuff(self.cap)
+                    if response == False:
+                        self.cap = await self.ReConnect()
+                        continue
+                else:
+                    self.cap = self.ReConnect()
                     continue
-            else:
-                self.cap = self.ReConnect()
-                continue
-            await self.asyncio.sleep(0)
+                await self.asyncio.sleep(0)
+            except Exception as e:
+                print(f'GUID: {self.guid} CameraProcess Error: {e}')
+                await self.asyncio.sleep(0)
