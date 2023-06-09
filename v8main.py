@@ -28,7 +28,7 @@ cameraList = {
     #         {'class': 'ylk', 'confidence': 0.4},
     #         {'class': 'ksk', 'confidence': 0.4},
     #     ],
-    #     'model': None,
+    #
     #     'alarm_sending_time': 10,
     # },
     # '2': {
@@ -48,7 +48,7 @@ cameraList = {
     #         {'class': 'ylk', 'confidence': 0.4},
     #         {'class': 'ksk', 'confidence': 0.4},
     #     ],
-    #     'model': None,
+    #
     #     'alarm_sending_time': 10,
     # },
     '1': {
@@ -69,7 +69,7 @@ cameraList = {
             {'class': 'ylk', 'confidence': 0.4},
             {'class': 'ksk', 'confidence': 0.4},
         ],
-        'model': None,
+
         'alarm_sending_time': 10,
     },
     '5': {
@@ -83,7 +83,7 @@ cameraList = {
             {'class': 'ylk', 'confidence': 0.4},
             {'class': 'ksk', 'confidence': 0.4},
         ],
-        'model': None,
+
         'alarm_sending_time': 10,
     },
     '8': {
@@ -104,7 +104,7 @@ cameraList = {
             {'class': 'ylk', 'confidence': 0.4},
             {'class': 'ksk', 'confidence': 0.4},
         ],
-        'model': None,
+
         'alarm_sending_time': 10,
     },
     '9': {
@@ -118,7 +118,7 @@ cameraList = {
             {'class': 'ylk', 'confidence': 0.4},
             {'class': 'ksk', 'confidence': 0.4},
         ],
-        'model': None,
+
         'alarm_sending_time': 10,
     }
 }
@@ -178,16 +178,9 @@ def main():
     threads.append(t)
 
     for guid, value in list:
-        mdl = value['model']
-        if mdl is None:
-            mdl = model
-            defModel = True
-            print(f'Using default model for {value["name"]}')
-        else:
-            print(f'Using {mdl} for {value["name"]}')
-            defModel = False
+
         process = Process(guid, value, ScreenShotPath,
-                          AlertsPath, WeightPath, ApiURL, mdl, defModel)
+                          AlertsPath, WeightPath, ApiURL, model)
         t = threading.Thread(target=process.run, daemon=True)
         threads.append(t)
     try:

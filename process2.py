@@ -16,7 +16,7 @@ os.environ["OPENCV_LOG_LEVEL"] = "SILENT"
 
 
 class Process:
-    def __init__(self, guid, value, screen_shot_path, alerts_path, weight_path, api_url, model=None, defModel=False):
+    def __init__(self, guid, value, screen_shot_path, alerts_path, weight_path, api_url, model=None):
         self.guid = guid
         self.screen_shot_path = screen_shot_path
         self.alerts_path = alerts_path
@@ -46,19 +46,19 @@ class Process:
             0: self.time.strftime(
                 '%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - 10))
         }
-
-        if defModel is False:
-            # self.cv2.logLevel = 'SILENT'
-            # self.model = self.torch.hub.load(
-            #     'ultralytics/yolov5', 'custom', f'{self.weight_path}{model}')
-            # self.device = 'cuda' if self.torch.cuda.is_available() else 'cpu'
-            # self.model.to(self.device)
-            # if self.torch.cuda.is_available():
-            #     self.torch.cuda.synchronize()
-            model = YOLO(f'{self.weight_path}{model}')
-            self.model = model
-        else:
-            self.model = model
+        self.model = model
+        # if defModel is False:
+        #     # self.cv2.logLevel = 'SILENT'
+        #     # self.model = self.torch.hub.load(
+        #     #     'ultralytics/yolov5', 'custom', f'{self.weight_path}{model}')
+        #     # self.device = 'cuda' if self.torch.cuda.is_available() else 'cpu'
+        #     # self.model.to(self.device)
+        #     # if self.torch.cuda.is_available():
+        #     #     self.torch.cuda.synchronize()
+        #     model = YOLO(f'{self.weight_path}{model}')
+        #     self.model = model
+        # else:
+        #     self.model = model
 
         self.cap = self.cv2.VideoCapture(self.url)
         self.video_width = int(self.cap.get(self.cv2.CAP_PROP_FRAME_WIDTH))
