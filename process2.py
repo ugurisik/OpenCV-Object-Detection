@@ -204,7 +204,7 @@ class Process:
                     for key, value in self.polygon_converted.items():
                         self.cv2.polylines(frame, np.array(
                             [self.polygons[key]]), True, (0, 0, 255), 2)
-                    self.ps.putBText(frame, 'IMER is watching!', 10,
+                    self.ps.putBText(frame, 'SecuritEye is watching!', 10,
                                      10, 10, 10, 0.7, (0, 200, 200), (250, 250, 250), 2)
                     self.ps.putBText(frame, self.time.strftime('%Y/%m/%d-%H:%M:%S'), (self.video_width-275),
                                      10, 10, 10, 0.7, (0, 200, 200), (250, 250, 250), 2)
