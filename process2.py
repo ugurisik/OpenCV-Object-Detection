@@ -15,8 +15,15 @@ from ultralytics import YOLO
 os.environ["OPENCV_LOG_LEVEL"] = "SILENT"
 
 
+WeightPath = './weights/'
+DefaultModel = 'yolov8n.pt'
+model = YOLO(f'{WeightPath}{DefaultModel}')
+
+
 class Process:
-    def __init__(self, guid, value, screen_shot_path, alerts_path, weight_path, api_url, model=None):
+    global model
+
+    def __init__(self, guid, value, screen_shot_path, alerts_path, weight_path, api_url):
         self.guid = guid
         self.screen_shot_path = screen_shot_path
         self.alerts_path = alerts_path

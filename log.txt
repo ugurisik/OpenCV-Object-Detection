@@ -220,3 +220,19 @@ The ordinate (last) dimension should be 2 or 3, got 1
 --- Program Started ---
 --- Log inserted Time:2023-06-09 20:01:38  ---
 --- Program Exited ---
+--- Log inserted Time:2023-06-09 20:52:00  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-09 20:52:11  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-09 20:52:11  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-09 20:52:11  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-09 20:52:11  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-09 20:54:57  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-09 20:55:49  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-09 20:56:23  ---
+--- Program Exited ---
