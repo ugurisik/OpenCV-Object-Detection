@@ -204,8 +204,8 @@ def main():
         logs.write_to_log(e)
 
 
-DeleteFiles()
-Port()
+# DeleteFiles()
+# Port()
 try:
     logs.write_to_log('--- Program Started ---')
     while True:

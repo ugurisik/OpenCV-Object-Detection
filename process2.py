@@ -233,7 +233,7 @@ class Process:
                             for detect in self.detection:
                                 confi = detect['confidence']
                                 clss = detect['class']
-                                if class_name == clss and conf >= confi:
+                                if class_name == clss and conf >= confi and conf < 1.0:
 
                                     if (self.zones == {} or self.zones == None):
                                         in_zone = True
