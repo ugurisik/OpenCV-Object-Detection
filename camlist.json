@@ -1,0 +1,120 @@
+{
+    "1": {
+      "name": "Bahçe",
+      "url": "rtsp://admin:safarimedia.de@88.248.145.53:3838",
+      "zones": {
+        "1": [
+          [
+            36.556603773584904,
+            99.13793103448276
+          ],
+          [
+            27.830188679245282,
+            56.896551724137936
+          ],
+          [
+            51.061320754716974,
+            45.9051724137931
+          ],
+          [
+            35.37735849056604,
+            0
+          ],
+          [
+            100,
+            0
+          ],
+          [
+            100,
+            100
+          ]
+        ]
+      },
+      "detection": [
+            {"class": "person", "confidence": 0.4},
+            {"class": "helmet", "confidence": 0.4},
+            {"class": "vest", "confidence": 0.4},
+            {"class": "grey-palet", "confidence": 0}
+      ],
+      "alarm_sending_time": 10
+    },
+    "5": {
+      "name": "Kapı",
+      "url": "rtsp://88.248.145.53:3839/media/video1",
+      "zones": {},
+      "detection": [
+            {"class": "person", "confidence": 0.4},
+            {"class": "helmet", "confidence": 0.4},
+            {"class": "vest", "confidence": 0.4},
+            {"class": "grey-palet", "confidence": 0}
+      ],
+      "alarm_sending_time": 10
+    },
+    "8": {
+      "name": "Kapı222",
+      "url": "rtsp://admin:safarimedia.de@88.248.145.53:3841/Streaming/Channels/101",
+      "zones": {
+        "1": [
+          [
+            76,
+            0
+          ],
+          [
+            68.77794089079042,
+            55.27399865555604
+          ],
+          [
+            28.86278545666913,
+            99
+          ],
+          [
+            99,
+            99
+          ],
+          [
+            99,
+            40.27399582866441
+          ],
+          [
+            99,
+            0
+          ]
+        ]
+      },
+      "detection": [
+            {"class": "person", "confidence": 0.4},
+            {"class": "helmet", "confidence": 0.4},
+            {"class": "vest", "confidence": 0.4},
+            {"class": "grey-palet", "confidence": 0}
+      ],
+      "alarm_sending_time": 10
+    },
+    "9": {
+      "name": "Kapı",
+      "url": "rtsp://88.248.145.53:554/user=admin_password=nTBCS19C_channel=1_stream=0.sdp?real_stream",
+      "zones": {},
+      "detection": [
+            {"class": "person", "confidence": 0.4},
+            {"class": "helmet", "confidence": 0.4},
+            {"class": "vest", "confidence": 0.4},
+            {"class": "grey-palet", "confidence": 0}
+      ],
+      "alarm_sending_time": 10
+    },
+    "10": {
+        "name": "kapivepalet",
+        "url": "0612.mp4",
+        "zones": {
+            "1":[[42.55143260145286,66.6728831394097],[66.13644181182792,67.30713756238006],[75.92422063413359,99.9],[40.4287817725191,99.9]],
+            "2":[[59.88641437107853,44.82220081458698],[65.42889153551667,63.63841536270748],[86.18369964064674,62.15848837577664],[77.22139614070421,45.03361895557709]]
+        },
+        "detection": [
+            {"class": "person", "confidence": 0.4},
+            {"class": "helmet", "confidence": 0.4},
+            {"class": "vest", "confidence": 0.4},
+            {"class": "grey-palet", "confidence": 0.0000000000000000000000001},
+            {"class":"door_open", "confidence":800,"time":50,"zone":[[92.17221, 25.70422], [92.07436, 30.80985], [99.8043, 37.67605], [99.70645, 32.39436]]}
+        ],
+        "alarm_sending_time": 10
+      }
+  }

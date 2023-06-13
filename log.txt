@@ -236,3 +236,2689 @@ The ordinate (last) dimension should be 2 or 3, got 1
 --- Program Started ---
 --- Log inserted Time:2023-06-09 20:56:23  ---
 --- Program Exited ---
+--- Log inserted Time:2023-06-09 20:57:54  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 14:53:40  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 14:53:47  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-10 14:53:47  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-10 14:53:47  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 14:53:47  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-10 15:06:48  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 15:35:03  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 15:35:10  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-10 15:35:10  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-10 15:35:10  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 15:35:10  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-10 15:35:26  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-10 15:35:26  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-10 15:35:26  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 15:35:26  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-10 15:35:41  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-10 15:35:41  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-10 15:35:41  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 15:35:41  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-10 15:35:57  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-10 15:35:57  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-10 15:35:57  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 15:35:57  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-10 15:36:05  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 15:39:32  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 15:39:39  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-10 15:39:39  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-10 15:39:39  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 15:39:39  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-10 15:40:00  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:20:59  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:21:06  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-10 16:21:06  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-10 16:21:06  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 16:21:06  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-10 16:21:25  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:21:40  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:21:53  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:22:42  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:23:07  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:40:07  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:40:14  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-10 16:40:14  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-10 16:40:14  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 16:40:14  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-10 16:40:24  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:41:28  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:41:36  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 16:41:44  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:42:08  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:42:15  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 16:42:23  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:42:41  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:42:57  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:44:14  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:44:29  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:48:11  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:48:18  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-10 16:48:31  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:48:55  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:50:30  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:51:48  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:52:10  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:53:35  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:53:49  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:54:02  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:54:20  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 16:55:56  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 16:57:11  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:03:35  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:03:42  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-10 17:03:42  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-10 17:03:42  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-10 17:03:42  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-10 17:04:16  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:04:34  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:04:43  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:04:49  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:04:57  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:05:01  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:05:33  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:05:47  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:06:08  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:09:19  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:10:57  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:11:06  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:32:23  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:32:28  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:32:49  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:32:53  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:50:21  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:50:25  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:53:14  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:53:21  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:54:27  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:54:30  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:54:40  ---
+GUID: 5 CameraProcess Error: division by zero
+--- Log inserted Time:2023-06-10 17:54:46  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:55:22  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:55:32  ---
+GUID: 5 CameraProcess Error: division by zero
+--- Log inserted Time:2023-06-10 17:55:36  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:55:44  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:56:12  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:56:31  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 17:56:43  ---
+GUID: 5 CameraProcess Error: OpenCV(4.7.0) :-1: error: (-5:Bad argument) in function 'polylines'
+> Overload resolution failed:
+>  - Argument 'thickness' is required to be an integer
+>  - Argument 'thickness' is required to be an integer
+
+--- Log inserted Time:2023-06-10 17:56:47  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 17:56:54  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:06:11  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:06:13  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:06:15  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:06:16  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:06:18  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:06:20  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:06:22  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:06:24  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:06:26  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:09:16  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:09:18  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:09:20  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:09:22  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:09:23  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:09:25  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:09:27  ---
+GUID: 5 CameraProcess Error: 'int' object has no attribute 'time'
+--- Log inserted Time:2023-06-10 18:09:36  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:09:40  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:15:13  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:15:25  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:22:53  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:22:56  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:23:17  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:23:30  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:32:01  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:32:04  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:39:51  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:39:54  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:42:14  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:42:50  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:43:38  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:43:52  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:44:33  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:44:58  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:46:28  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:46:46  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 18:56:22  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 18:56:58  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 19:29:52  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 19:32:00  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 20:44:18  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 20:44:30  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 20:44:57  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 20:46:54  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 23:44:14  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 23:44:16  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 23:45:27  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 23:45:42  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 23:46:03  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 23:46:25  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 23:46:52  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 23:46:56  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 23:47:53  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 23:51:07  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 23:51:41  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 23:51:57  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 23:52:04  ---
+GUID: 9 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-10 23:52:05  ---
+GUID: 8 CameraProcess Error: cannot access local variable 'color' where it is not associated with a value
+--- Log inserted Time:2023-06-10 23:52:06  ---
+GUID: 9 CameraProcess Error: cannot access local variable 'color' where it is not associated with a value
+--- Log inserted Time:2023-06-10 23:52:06  ---
+GUID: 1 CameraProcess Error: cannot access local variable 'color' where it is not associated with a value
+--- Log inserted Time:2023-06-10 23:52:09  ---
+GUID: 9 CameraProcess Error: cannot access local variable 'color' where it is not associated with a value
+--- Log inserted Time:2023-06-10 23:52:09  ---
+GUID: 8 CameraProcess Error: cannot access local variable 'color' where it is not associated with a value
+--- Log inserted Time:2023-06-10 23:52:10  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 23:52:26  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 23:55:01  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-10 23:55:42  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-10 23:55:48  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-11 00:00:47  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-11 00:00:51  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-11 00:00:51  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-11 00:00:51  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-11 00:00:51  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-11 00:02:11  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-11 00:02:52  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-11 00:02:58  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-11 00:03:08  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-11 00:03:42  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-11 00:05:08  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-11 00:10:05  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-11 00:12:57  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-11 00:13:40  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-11 00:29:01  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-11 00:29:06  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-11 00:29:06  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-11 00:29:06  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-11 00:29:06  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-11 00:31:42  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 02:41:05  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 02:41:09  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 02:41:09  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 02:41:09  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 02:41:09  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 02:41:33  ---
+--- Program Exited with Press Key ---
+--- Log inserted Time:2023-06-12 03:04:02  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:04:12  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:04:12  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:04:12  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:04:12  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:05:24  ---
+--- Program Exited with Press Key ---
+--- Log inserted Time:2023-06-12 03:05:50  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:06:28  ---
+--- Program Exited with Press Key ---
+--- Log inserted Time:2023-06-12 03:12:35  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:12:41  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:12:50  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:12:50  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:12:51  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:12:51  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:13:23  ---
+--- Program Exited with Press Key ---
+--- Log inserted Time:2023-06-12 03:29:37  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:29:40  ---
+'list' object has no attribute 'items'
+--- Log inserted Time:2023-06-12 03:29:58  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:29:58  ---
+not enough values to unpack (expected 2, got 1)
+--- Log inserted Time:2023-06-12 03:30:58  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:30:58  ---
+not enough values to unpack (expected 2, got 1)
+--- Log inserted Time:2023-06-12 03:31:09  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:31:09  ---
+not enough values to unpack (expected 2, got 1)
+--- Log inserted Time:2023-06-12 03:31:58  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:31:58  ---
+not enough values to unpack (expected 2, got 1)
+--- Log inserted Time:2023-06-12 03:32:17  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:32:17  ---
+not enough values to unpack (expected 2, got 1)
+--- Log inserted Time:2023-06-12 03:34:00  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:34:00  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:34:00  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:34:00  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:34:00  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:34:16  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:34:16  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:34:16  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:34:16  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:34:22  ---
+--- Program Exited with Press Key ---
+--- Log inserted Time:2023-06-12 03:34:42  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:34:42  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:34:42  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:34:42  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:34:42  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:34:57  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:34:57  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:34:57  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:34:57  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:34:59  ---
+--- Program Exited with Press Key ---
+--- Log inserted Time:2023-06-12 03:35:03  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:35:03  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:35:03  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:35:03  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:35:03  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:35:18  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:35:18  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:35:18  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:35:18  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:35:34  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:35:34  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:35:34  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:35:34  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:35:37  ---
+--- Program Exited with Press Key ---
+--- Log inserted Time:2023-06-12 03:35:45  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:35:45  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:35:45  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:35:45  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:35:45  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:35:53  ---
+--- Program Exited with Press Key ---
+--- Log inserted Time:2023-06-12 03:39:00  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:39:00  ---
+not enough values to unpack (expected 2, got 1)
+--- Log inserted Time:2023-06-12 03:39:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:39:32  ---
+'list' object has no attribute 'items'
+--- Log inserted Time:2023-06-12 03:39:56  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:39:59  ---
+'list' object has no attribute 'items'
+--- Log inserted Time:2023-06-12 03:40:47  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 03:40:57  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 03:40:57  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 03:40:57  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 03:40:57  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 03:41:12  ---
+--- Program Exited with Press Key ---
+--- Log inserted Time:2023-06-12 21:19:14  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-14.jpg'
+--- Log inserted Time:2023-06-12 21:19:14  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-14.jpg'
+--- Log inserted Time:2023-06-12 21:19:14  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-14.jpg'
+--- Log inserted Time:2023-06-12 21:19:15  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-15.jpg'
+--- Log inserted Time:2023-06-12 21:19:15  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-15.jpg'
+--- Log inserted Time:2023-06-12 21:19:15  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-15.jpg'
+--- Log inserted Time:2023-06-12 21:19:15  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-15.jpg'
+--- Log inserted Time:2023-06-12 21:19:16  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-16.jpg'
+--- Log inserted Time:2023-06-12 21:19:16  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-16.jpg'
+--- Log inserted Time:2023-06-12 21:19:16  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-16.jpg'
+--- Log inserted Time:2023-06-12 21:19:16  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-16.jpg'
+--- Log inserted Time:2023-06-12 21:19:17  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-17.jpg'
+--- Log inserted Time:2023-06-12 21:19:17  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-17.jpg'
+--- Log inserted Time:2023-06-12 21:19:18  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-18.jpg'
+--- Log inserted Time:2023-06-12 21:19:19  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-19.jpg'
+--- Log inserted Time:2023-06-12 21:19:19  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-19.jpg'
+--- Log inserted Time:2023-06-12 21:19:20  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-20.jpg'
+--- Log inserted Time:2023-06-12 21:19:21  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-21.jpg'
+--- Log inserted Time:2023-06-12 21:19:22  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-22.jpg'
+--- Log inserted Time:2023-06-12 21:19:22  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-22.jpg'
+--- Log inserted Time:2023-06-12 21:19:23  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-23.jpg'
+--- Log inserted Time:2023-06-12 21:19:23  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-23.jpg'
+--- Log inserted Time:2023-06-12 21:19:24  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-24.jpg'
+--- Log inserted Time:2023-06-12 21:19:24  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-24.jpg'
+--- Log inserted Time:2023-06-12 21:19:25  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-25.jpg'
+--- Log inserted Time:2023-06-12 21:19:25  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-25.jpg'
+--- Log inserted Time:2023-06-12 21:19:26  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-26.jpg'
+--- Log inserted Time:2023-06-12 21:19:27  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-27.jpg'
+--- Log inserted Time:2023-06-12 21:19:27  ---
+GUID: 10 CameraProcess Error: [Errno 2] No such file or directory: './alerts/10_20230612-21-19-27.jpg'
+--- Log inserted Time:2023-06-12 21:26:45  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:45  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:45  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:45  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:46  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:46  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:46  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:46  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:47  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:47  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:48  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:48  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:49  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:50  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:51  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:52  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:52  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:53  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:54  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:54  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:55  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:55  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:56  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:56  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:56  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:57  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:57  ---
+GUID: 9 CameraProcess Error: integer modulo by zero
+--- Log inserted Time:2023-06-12 21:26:57  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:58  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:58  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:26:59  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:27:00  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:27:00  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:27:01  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:27:02  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:27:02  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:27:03  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:27:03  ---
+GUID: 9 CameraProcess Error: integer modulo by zero
+--- Log inserted Time:2023-06-12 21:27:03  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:27:04  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:27:05  ---
+GUID: 10 CameraProcess Error: '>=' not supported between instances of 'str' and 'NoneType'
+--- Log inserted Time:2023-06-12 21:52:55  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 21:52:55  ---
+'model'
+--- Log inserted Time:2023-06-12 21:54:25  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 21:55:23  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 21:55:33  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 21:55:33  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 21:55:33  ---
+[Errno 2] No such file or directory: '10.jpg'
+--- Log inserted Time:2023-06-12 21:55:33  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 21:55:33  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 21:55:48  ---
+[Errno 2] No such file or directory: '10.jpg'
+--- Log inserted Time:2023-06-12 21:56:04  ---
+[Errno 2] No such file or directory: '10.jpg'
+--- Log inserted Time:2023-06-12 21:56:05  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:01:47  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:02:04  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:02:13  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 22:02:13  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 22:02:13  ---
+[Errno 2] No such file or directory: '10.jpg'
+--- Log inserted Time:2023-06-12 22:02:13  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 22:02:13  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 22:02:15  ---
+GUID: 8 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-12 22:03:13  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:06:25  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:10:43  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:10:57  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:12:30  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:14:13  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:16:01  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:17:52  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:19:48  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:21:51  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:23:47  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:26:10  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:28:19  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:30:26  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:30:32  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:30:52  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:31:12  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:31:20  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:31:35  ---
+GUID: 10 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-12 22:35:01  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:35:15  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:35:28  ---
+GUID: 5 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-12 22:35:29  ---
+GUID: 10 CameraProcess Error: name 'send_alert' is not defined
+--- Log inserted Time:2023-06-12 22:35:37  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:35:50  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:36:16  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:36:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:37:24  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:43:14  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:43:24  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 22:43:24  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 22:43:24  ---
+[Errno 2] No such file or directory: '11.jpg'
+--- Log inserted Time:2023-06-12 22:43:24  ---
+[Errno 2] No such file or directory: '10.jpg'
+--- Log inserted Time:2023-06-12 22:43:24  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 22:43:24  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 22:43:46  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:44:04  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:44:57  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:45:46  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:46:21  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:46:25  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:47:03  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:47:59  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:48:43  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:49:17  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:49:49  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:50:15  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:50:28  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:50:35  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:51:06  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:51:27  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:51:45  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:51:58  ---
+GUID: 1 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-12 22:52:10  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:52:19  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:52:57  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:53:35  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:54:24  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:54:28  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:56:24  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:56:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:56:41  ---
+GUID: 10 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-12 22:57:48  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 22:58:04  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:58:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 22:58:40  ---
+GUID: 10 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-12 22:59:19  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:00:05  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:00:36  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:02:52  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:05:05  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:05:10  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:07:13  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:07:19  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:07:31  ---
+GUID: 1 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-12 23:07:55  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:08:44  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:09:52  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:10:07  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:10:30  ---
+GUID: 11 CameraProcess Error: 'numpy.ndarray' object has no attribute 'area'
+--- Log inserted Time:2023-06-12 23:10:33  ---
+GUID: 11 CameraProcess Error: 'numpy.ndarray' object has no attribute 'area'
+--- Log inserted Time:2023-06-12 23:10:35  ---
+GUID: 11 CameraProcess Error: 'numpy.ndarray' object has no attribute 'area'
+--- Log inserted Time:2023-06-12 23:10:38  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:12:21  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:13:11  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:13:36  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:14:34  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:14:39  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:14:51  ---
+GUID: 1 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-12 23:15:15  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:16:18  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:17:20  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:23:31  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:23:41  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-12 23:23:41  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-12 23:23:41  ---
+[Errno 2] No such file or directory: '11.jpg'
+--- Log inserted Time:2023-06-12 23:23:41  ---
+[Errno 2] No such file or directory: '10.jpg'
+--- Log inserted Time:2023-06-12 23:23:41  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-12 23:23:41  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-12 23:24:42  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:25:13  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:26:02  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:26:07  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:26:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:26:49  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:26:58  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:27:10  ---
+GUID: 10 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-12 23:38:12  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:38:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:39:44  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:41:12  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:42:05  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:42:17  ---
+sending Alert 11 1 50029 55266.0
+--- Log inserted Time:2023-06-12 23:55:20  ---
+500 Server Error: Internal Server Error for url: https://securiteye.ai/API/detect.php
+--- Log inserted Time:2023-06-12 23:55:21  ---
+500 Server Error: Internal Server Error for url: https://securiteye.ai/API/detect.php
+--- Log inserted Time:2023-06-12 23:55:31  ---
+500 Server Error: Internal Server Error for url: https://securiteye.ai/API/detect.php
+--- Log inserted Time:2023-06-12 23:55:32  ---
+500 Server Error: Internal Server Error for url: https://securiteye.ai/API/detect.php
+--- Log inserted Time:2023-06-12 23:55:41  ---
+500 Server Error: Internal Server Error for url: https://securiteye.ai/API/detect.php
+--- Log inserted Time:2023-06-12 23:55:42  ---
+500 Server Error: Internal Server Error for url: https://securiteye.ai/API/detect.php
+--- Log inserted Time:2023-06-12 23:55:43  ---
+500 Server Error: Internal Server Error for url: https://securiteye.ai/API/detect.php
+--- Log inserted Time:2023-06-12 23:55:52  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:56:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:56:44  ---
+sending Alert 11 1 50029 55266.0
+--- Log inserted Time:2023-06-12 23:57:39  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-12 23:58:29  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-12 23:58:44  ---
+sending Alert 11 1 50029 55266.0
+--- Log inserted Time:2023-06-13 00:02:36  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-13 00:02:52  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-13 00:03:03  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-13 00:03:11  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-13 00:03:33  ---
+sending Alert 11 1 62021 310791.0
+--- Log inserted Time:2023-06-13 00:04:52  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-13 00:06:27  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-13 00:06:53  ---
+sending Alert 11 1 50029 55266.0
+--- Log inserted Time:2023-06-13 00:07:19  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:07:40  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:08:05  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:08:18  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:08:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:08:31  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:08:38  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:08:45  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:08:56  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:09:15  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:10:30  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:10:49  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:10:53  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:11:12  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:11:16  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:11:42  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:12:21  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:12:41  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:13:34  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:13:52  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:14:12  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:14:28  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:15:17  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:15:19  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:15:23  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:16:01  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:16:03  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:16:40  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:17:28  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:18:32  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:18:39  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:18:41  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:19:18  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:19:20  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:19:52  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:19:58  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:19:58  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:21:08  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:21:26  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:22:28  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:23:16  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:23:27  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:23:47  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:24:07  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:25:12  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:25:19  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:25:32  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:25:47  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:26:31  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:27:10  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:27:24  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:27:28  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:27:44  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:28:59  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:29:08  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:29:19  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:29:34  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:29:48  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:29:50  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:30:01  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:30:12  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:30:27  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:30:54  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:31:40  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:32:34  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:32:51  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:33:17  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:34:12  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:34:43  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:34:47  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:34:47  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:35:22  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:35:55  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:36:05  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:36:27  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:36:38  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:36:42  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:37:07  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:37:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:37:32  ---
+GUID: 5 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:38:28  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:38:44  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:39:10  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:39:30  ---
+GUID: 10 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:39:30  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:40:01  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:40:03  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:40:09  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:40:16  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:40:32  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:40:51  ---
+GUID: 10 CameraProcess Error: 'NoneType' object is not subscriptable
+--- Log inserted Time:2023-06-13 00:41:12  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:41:36  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:41:41  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:42:13  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:42:36  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:42:56  ---
+GUID: 10 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:42:56  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:43:53  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:44:05  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:44:11  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:44:48  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:44:51  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:45:02  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:45:12  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:45:17  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:45:17  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:45:22  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:45:26  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:45:40  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:46:42  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:46:48  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:47:29  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:47:38  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:48:13  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:48:21  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:48:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:48:43  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:48:47  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:49:05  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:49:55  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:49:57  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:50:14  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:50:54  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:51:14  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:52:09  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:52:58  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:52:58  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:53:13  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:53:33  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:54:29  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:55:01  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:55:04  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:55:42  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:56:07  ---
+GUID: 5 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:56:35  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:56:41  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:56:42  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:57:37  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:58:25  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:58:44  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:58:47  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:58:50  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:59:42  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 00:59:54  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:00:05  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:00:14  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:00:41  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:00:44  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:01:00  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:01:04  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:01:04  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:01:07  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:01:37  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:01:40  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:02:19  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:03:01  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:04:42  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:04:46  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:04:46  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:05:09  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:06:37  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:07:10  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:07:39  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:07:39  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:09:06  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:09:30  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:09:41  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:10:28  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:11:22  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:11:36  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:11:58  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:12:28  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:13:21  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:13:21  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:13:30  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:13:40  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:13:42  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:14:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:14:28  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:14:40  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:14:52  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:16:03  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:17:18  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:17:18  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:17:20  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:17:21  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:18:00  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:18:09  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:18:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:18:25  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:18:52  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:19:06  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:19:08  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:19:56  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:20:03  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:20:51  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:21:00  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:21:09  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:21:13  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:21:25  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:21:46  ---
+GUID: 10 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:21:51  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:21:53  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:21:59  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:22:06  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:22:13  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:22:35  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:22:56  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:23:36  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:24:38  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:24:53  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:25:22  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:26:21  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:28:20  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:28:27  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:28:36  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:29:42  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:30:27  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:30:45  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:30:47  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:30:47  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:30:53  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:30:59  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:31:41  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:32:14  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:32:29  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:32:33  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:32:49  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:33:24  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:33:50  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:33:50  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:34:11  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:34:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:34:25  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:35:21  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:35:21  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:35:43  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:36:31  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:37:06  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:38:13  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:38:39  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:39:38  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:39:53  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:40:13  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:42:05  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:42:06  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:42:09  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:42:18  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:42:19  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:42:30  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:42:42  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:43:37  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:44:08  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:44:37  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:45:06  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:45:13  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:45:21  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:46:11  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:46:29  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:46:52  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:47:10  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:47:27  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:48:15  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:49:57  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:50:45  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:51:29  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:51:42  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:52:38  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:52:46  ---
+GUID: 10 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:52:55  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:53:16  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:53:29  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:53:38  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:54:38  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:54:44  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:55:27  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:56:13  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:56:44  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:57:27  ---
+GUID: 5 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:57:40  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:58:50  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:58:53  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:59:20  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 01:59:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:00:11  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:00:16  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-13 02:00:32  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-13 02:00:47  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-13 02:01:03  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-13 02:01:09  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:01:18  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-13 02:01:34  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-13 02:01:44  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:01:49  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:02:18  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:03:47  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:04:02  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:04:02  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:04:34  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:05:26  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:06:13  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:06:15  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:06:36  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:07:10  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:07:39  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:07:51  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:08:08  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:08:26  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:08:29  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:08:31  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:08:38  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:08:42  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:08:48  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:08:54  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:09:34  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:10:00  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:10:08  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:10:21  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:10:28  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:10:31  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:11:13  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:11:31  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:12:08  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:12:25  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:12:52  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:12:56  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:13:20  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:13:32  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:13:38  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:13:54  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:14:46  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:14:49  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:14:57  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:15:04  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:15:38  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:16:15  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:16:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:17:20  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:17:44  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:17:57  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:18:02  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:18:15  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:19:13  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:20:10  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:20:31  ---
+GUID: 8 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:20:45  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:21:00  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:21:07  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:21:20  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:21:28  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:22:08  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:22:49  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:23:01  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:23:20  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:23:47  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:24:46  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:24:51  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:25:35  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:25:39  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:25:51  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:26:18  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:27:00  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:27:29  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:27:29  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:27:52  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:27:53  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:28:11  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:28:18  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:29:40  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:29:43  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:30:07  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:30:38  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:30:52  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:31:26  ---
+GUID: 5 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:31:38  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:31:49  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:32:09  ---
+GUID: 10 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:32:37  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:33:10  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:34:05  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:34:14  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:35:55  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:36:07  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:37:09  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:37:25  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:38:04  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:39:29  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:40:18  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:41:36  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:41:43  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:41:52  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:41:54  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:42:02  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:42:23  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:42:36  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:44:20  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:44:34  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:44:58  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:45:51  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:46:05  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:46:12  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:46:37  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:46:56  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:46:58  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:47:32  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:49:07  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:50:09  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:50:14  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:50:36  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:50:54  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:51:29  ---
+GUID: 10 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:53:19  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:53:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:53:30  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:53:47  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:53:51  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:54:10  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:54:48  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:55:17  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:55:51  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:56:07  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:56:38  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:57:17  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:57:26  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:58:18  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:58:32  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:58:38  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 02:58:41  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:00:05  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:00:26  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:00:36  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:01:09  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:01:37  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:01:47  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:02:05  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:02:16  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:03:02  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:03:46  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:03:46  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:04:40  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:05:03  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:05:32  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:06:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:06:34  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:06:34  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:06:46  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:07:05  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:07:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:08:33  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:09:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:09:33  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:10:57  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:11:27  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:11:55  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:12:38  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:13:04  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:13:22  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:14:04  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:14:37  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:14:48  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:15:06  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:15:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:15:48  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:15:51  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:16:45  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:17:20  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:17:58  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:18:06  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:18:26  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:19:09  ---
+GUID: 10 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:19:13  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:20:10  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:21:29  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:22:22  ---
+GUID: 5 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:23:09  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:23:39  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:23:51  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:24:33  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:24:59  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:25:25  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:25:57  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:26:10  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:26:40  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:27:03  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:27:10  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:27:21  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:27:21  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:28:14  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:28:54  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:29:15  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:29:33  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:29:34  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:30:58  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:31:13  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:31:43  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:32:57  ---
+GUID: 5 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:33:33  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:33:49  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:33:50  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:34:18  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:34:39  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:34:50  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:35:20  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:35:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:35:55  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:36:50  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:36:52  ---
+GUID: 8 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:36:55  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:36:55  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:37:22  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:37:28  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:37:37  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:38:16  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:38:25  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:39:40  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:39:52  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:40:31  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:40:40  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:41:14  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:41:37  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:42:26  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:42:29  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:43:17  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:44:21  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:45:11  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:45:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:45:29  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:46:06  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:46:31  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:46:46  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:47:09  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:47:25  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:48:15  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:48:39  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:48:46  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:48:50  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:48:50  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:48:58  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:48:59  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:49:05  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:49:29  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:49:53  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:50:42  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:51:03  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:51:06  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:51:40  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:51:57  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:52:03  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:52:08  ---
+GUID: 5 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:52:20  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:54:39  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:54:46  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:55:16  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:55:31  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:57:23  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:58:23  ---
+GUID: 8 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 03:58:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:01:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:01:49  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:01:49  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:01:49  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:02:11  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:02:40  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:02:57  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:03:56  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:03:57  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:04:24  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:05:28  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:05:59  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:06:49  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:06:54  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:07:28  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:07:30  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:07:50  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:07:57  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:08:01  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:08:59  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:09:04  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:09:07  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:09:45  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:09:53  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:09:55  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:11:26  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:11:53  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:12:49  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:12:53  ---
+GUID: 8 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:12:54  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:13:56  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:15:52  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:16:16  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:16:30  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:16:48  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:17:33  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:17:49  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:18:16  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:18:34  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:19:02  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:19:17  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:20:16  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:20:32  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:20:36  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:20:50  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:21:22  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:21:25  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:21:53  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:21:53  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:22:10  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:22:43  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:22:55  ---
+GUID: 8 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:23:05  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:23:36  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:23:41  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:24:15  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:24:30  ---
+GUID: 5 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:24:49  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:25:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:25:28  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:25:52  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:26:04  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:26:20  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:26:25  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:26:50  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:27:12  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:27:29  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:28:41  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:29:01  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:29:01  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:29:34  ---
+GUID: 8 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:30:22  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:30:27  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:30:38  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:31:13  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:31:36  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:31:49  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:32:22  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:32:26  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:32:41  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:32:52  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:32:56  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:33:16  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:33:36  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:34:03  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:34:16  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:34:34  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:35:15  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:35:32  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:36:09  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:36:17  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:36:41  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:37:04  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:37:06  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:37:09  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:37:24  ---
+GUID: 5 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:37:57  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:38:37  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:38:54  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:39:11  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:39:30  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:39:33  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:39:41  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:40:10  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:40:27  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:40:39  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:40:41  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:42:01  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:42:24  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:43:31  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:43:36  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:43:50  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:44:14  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:44:52  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:46:53  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:46:53  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:46:54  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:47:06  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:48:07  ---
+GUID: 1 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:48:09  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:48:29  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:50:01  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:50:08  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:50:59  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:51:45  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:52:22  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:52:39  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:52:44  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:53:50  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:53:53  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:54:02  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:55:18  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:55:27  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:55:32  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:55:59  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:56:53  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:57:09  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:58:25  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:59:30  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 04:59:30  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:00:20  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:00:36  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:01:52  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:02:00  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:02:27  ---
+GUID: 5 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:02:27  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:03:00  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:03:08  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:03:08  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:04:15  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:04:21  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:04:52  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:05:26  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:07:57  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:07:59  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:08:22  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:09:17  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:10:50  ---
+GUID: 10 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:11:04  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:11:12  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:11:16  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:11:48  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:11:55  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:12:22  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:13:18  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:14:15  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:14:19  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:14:44  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:15:14  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:15:18  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:15:32  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:16:00  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:16:00  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:16:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:17:22  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:18:02  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:18:25  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:18:42  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:19:03  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:20:13  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:21:13  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:21:22  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:21:23  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:21:40  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:21:48  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:22:26  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:22:58  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:23:36  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:25:25  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:25:27  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:25:57  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:26:33  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:27:00  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:28:06  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:29:41  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:30:32  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:31:04  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:31:23  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:31:49  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:32:05  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:32:07  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:32:39  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:32:44  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:33:26  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:33:33  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:34:10  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:34:31  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:35:15  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:35:46  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:36:09  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:36:16  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:36:28  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:36:48  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:37:02  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:37:25  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:37:26  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:38:44  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:38:57  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:39:35  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:41:12  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:41:51  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:42:57  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:43:16  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:43:33  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:43:50  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:44:05  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:44:47  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:44:48  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:45:20  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:45:56  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:46:04  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:46:53  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:47:22  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:48:02  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:48:03  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:48:05  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:48:17  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:48:23  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:48:40  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:49:05  ---
+GUID: 9 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:49:19  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:50:03  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:50:27  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:50:28  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:50:56  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:51:35  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:53:14  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:54:19  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:55:12  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:55:18  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:55:21  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:55:28  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:56:09  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:56:20  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:57:17  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:57:37  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:58:02  ---
+GUID: 9 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:58:10  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:58:26  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:58:50  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:59:23  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:59:36  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 05:59:55  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:00:04  ---
+GUID: 10 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:00:44  ---
+GUID: 5 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:01:02  ---
+GUID: 1 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:01:45  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:02:15  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:02:17  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:02:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:02:31  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:03:15  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:03:24  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:03:32  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:03:58  ---
+GUID: 12 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:04:01  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:04:25  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:04:30  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-13 06:04:54  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2

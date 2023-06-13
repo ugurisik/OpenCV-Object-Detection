@@ -22,10 +22,10 @@ cameraList = {
                  (100.0, 100.0)],
         'detection': [
             {'class': 'person', 'confidence': 0.2},
-            
+
         ],
         'model': None,
-        'alarm_sending_time': 10,
+        'alarm_sending_time': 30,
     },
     '5': {
         'name': 'Kapı',
@@ -37,8 +37,8 @@ cameraList = {
                 'confidence': 0.5,
             }
         ],
-        'model': 'yolov5n.pt',
-        'alarm_sending_time': 10,
+        'model': 'best-5.pt',
+        'alarm_sending_time': 30,
     },
     '8': {
         'name': 'Kapı',
@@ -56,7 +56,7 @@ cameraList = {
             }
         ],
         'model': None,
-        'alarm_sending_time': 10,
+        'alarm_sending_time': 30,
     },
     '9': {
         'name': 'Kapı',
@@ -68,8 +68,8 @@ cameraList = {
                 'confidence': 0.5,
             }
         ],
-        'model': 'best20.pt',
-        'alarm_sending_time': 10,
+        'model': 'best-5.pt',
+        'alarm_sending_time': 30,
     },
     '10': {
         'name': 'Kapı',
@@ -77,12 +77,11 @@ cameraList = {
         'zone': [],
         'detection': [
             {
-                'class': 'person',
-                'confidence': 0.5,
+                'class': 'grey-palet', 'confidence': 0
             }
         ],
-        'model': 'best20.pt',
-        'alarm_sending_time': 10,
+        'model': 'best-5.pt',
+        'alarm_sending_time': 30,
     },
 }
 
@@ -92,7 +91,7 @@ ScreenShotPath = './screenshots'
 AlertsPath = './alerts'
 WeightPath = './weights/'
 ApiURL = 'http://localhost:5000/api/cameras'
-DefaultModel = 'yolov5n.pt'
+DefaultModel = 'best-5.pt'
 port = 8080
 
 model = torch.hub.load('ultralytics/yolov5', 'custom',
@@ -129,6 +128,7 @@ def write_to_log(exception):
         file.write('--- Hanging Thread Detected ---\n')
         file.write(str(exception))
         file.write('\n')
+
 
 def main():
     threads = []
@@ -167,8 +167,8 @@ def main():
         logs.write_to_log(e)
 
 
-DeleteFiles()
-Port()
+# DeleteFiles()
+# Port()
 try:
     logs.write_to_log('--- Program Started ---')
     while True:
