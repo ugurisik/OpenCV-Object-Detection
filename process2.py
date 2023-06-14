@@ -201,8 +201,8 @@ class Process:
             self.squares[key] += square
         # print(f'Polygon {key} Area: {poly_area} Square: {self.squares[key]}')
 
-    def PaletAreaDedection(self, key, square, area, frame):
-        if self.send_palet_area_alert == False and int(square*100) > 50:
+    def PaletAreaDedection(self, key, square, area, frame, oran):
+        if self.send_palet_area_alert == False and int(oran) > 50:
             print('------------------------------------------------------------------')
             print(f'sending Alert {self.guid} {key} {square} {area}')
             print('------------------------------------------------------------------')
@@ -394,7 +394,7 @@ class Process:
                             print(
                                 f'Kamera ID {self.guid} Polygon {key} Toplam Alan: {self.polygon_converted[key].area} Dolu Alan: {self.squares[key]}  Doluluk Oranı: %{self.squares[key]/self.polygon_converted[key].area*100}')
                             self.PaletAreaDedection(
-                                key, self.squares[key], self.polygon_converted[key].area, frame)
+                                key, self.squares[key], self.polygon_converted[key].area, frame, self.squares[key]/self.polygon_converted[key].area*100)
 
                     self.TakeOneScreenShot(frame, detectionCount)
             await self.asyncio.sleep(0)
