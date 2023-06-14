@@ -59,6 +59,7 @@ class Process:
                 '%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - 10))
         }
         self.last_color_detection_status = False
+        self.last_color_detection_closed_status = False
         self.send_palet_area_alert = False
 
         if defModel is False:
@@ -217,60 +218,72 @@ class Process:
             self.send_palet_area_alert = False
 
     async def ColorDetection(self, frame, confi, zone, times):
+        frame2 = frame
         await self.asyncio.sleep(0.01)
         if self.last_color_detection.get(str(self.guid)) is None:
             self.last_color_detection[str(self.guid)] = self.time.strftime(
-                '%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - 1500))
-        if self.time.strftime('%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - times)) >= self.last_color_detection.get(str(self.guid)):
-            coordinates = self.np.array(zone,
-                                        self.np.int32)
-            for i in range(len(coordinates)):
-                x = coordinates[i][0]
-                y = coordinates[i][1]
-                xper = (x*self.video_width/100)
-                yper = (y*self.video_height/100)
-                coordinates[i] = (self.math.ceil(xper), self.math.ceil(yper))
-            poly = self.np.array(coordinates, dtype=self.np.int32)
-            self.cv2.polylines(frame, [poly],
-                               True, (0, 255, 0), 1)
-            name = f"{self.alerts_path}/{self.guid}_{self.time.strftime('%Y%m%d-%H-%M-%S')}.jpg"
-            self.cv2.imwrite(name, frame)
+                '%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - 1))
+        # if self.time.strftime('%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - times)) >= self.last_color_detection.get(str(self.guid)):
+        coordinates = self.np.array(zone,
+                                    self.np.int32)
+        for i in range(len(coordinates)):
+            x = coordinates[i][0]
+            y = coordinates[i][1]
+            xper = (x*self.video_width/100)
+            yper = (y*self.video_height/100)
+            coordinates[i] = (self.math.ceil(xper), self.math.ceil(yper))
+        poly = self.np.array(coordinates, dtype=self.np.int32)
+        self.cv2.polylines(frame, [poly],
+                           True, (0, 255, 0), 1)
+        name = f"{self.alerts_path}/{self.guid}_{self.time.strftime('%Y%m%d-%H-%M-%S')}.jpg"
 
-            mask = self.np.zeros(frame.shape[:2], dtype=self.np.uint8)
-            self.cv2.fillPoly(mask, [poly], (255))
-            area_inside = self.cv2.bitwise_and(frame, frame, mask=mask)
-            area_inside_gray = self.cv2.cvtColor(
-                area_inside, self.cv2.COLOR_BGR2GRAY)
-            _, thresholded_area_inside = self.cv2.threshold(
-                area_inside_gray, 90, 255, self.cv2.THRESH_BINARY)
-            TotalPx = thresholded_area_inside.shape[0] * \
-                thresholded_area_inside.shape[1]
-            whitePX = self.cv2.countNonZero(thresholded_area_inside)
-            blackPx = TotalPx - whitePX
-            tt = (blackPx / whitePX)
-
-            if (tt > confi):
-                print(
-                    '------------------------------------------------------------------')
-                print(f'Kapı Açık! Guid: {self.guid} Değer: {tt}')
-                print(
-                    '------------------------------------------------------------------')
-
-                if (self.last_color_detection_status == False):
-
-                    self.last_color_detection_status = True
-                    self.last_color_detection[str(self.guid)] = self.time.strftime(
-                        '%Y-%m-%d %H:%M:%S')
-                    self.Requests.SendAlert(
-                        self.guid, name, 10000, 'Door Open')
-            else:
-                os.remove(name)
-                self.last_color_detection_status = False
-                print(
-                    '------------------------------------------------------------------')
-                print(f'Kapı Kapalı! Guid: {self.guid} Değer: {tt}')
-                print(
-                    '------------------------------------------------------------------')
+        mask = self.np.zeros(frame.shape[:2], dtype=self.np.uint8)
+        self.cv2.fillPoly(mask, [poly], (255))
+        area_inside = self.cv2.bitwise_and(frame, frame, mask=mask)
+        area_inside_gray = self.cv2.cvtColor(
+            area_inside, self.cv2.COLOR_BGR2GRAY)
+        _, thresholded_area_inside = self.cv2.threshold(
+            area_inside_gray, 90, 255, self.cv2.THRESH_BINARY)
+        TotalPx = thresholded_area_inside.shape[0] * \
+            thresholded_area_inside.shape[1]
+        whitePX = self.cv2.countNonZero(thresholded_area_inside)
+        blackPx = TotalPx - whitePX
+        tt = (blackPx / whitePX)
+        last_detection = self.last_color_detection.get(str(self.guid))
+        # now = self.time.strftime(
+        #     '%Y-%m-%d %H:%M:%S', self.time.localtime(time.time()))
+        # diff = now - last_detection
+        now = self.time.strftime('%Y-%m-%d %H:%M:%S')
+        diff = self.time.mktime(self.time.strptime(
+            now, '%Y-%m-%d %H:%M:%S')) - self.time.mktime(self.time.strptime(last_detection, '%Y-%m-%d %H:%M:%S'))
+        if (tt > confi):
+            print(
+                '------------------------------------------------------------------')
+            print(f'Kapı Açık! Guid: {self.guid} Değer: {tt}')
+            print(
+                '------------------------------------------------------------------')
+            self.last_color_detection_closed_status = False
+            if (self.last_color_detection_status == False):
+                self.cv2.imwrite(name, frame2)
+                self.last_color_detection_status = True
+                self.last_color_detection[str(self.guid)] = self.time.strftime(
+                    '%Y-%m-%d %H:%M:%S')
+                self.Requests.SendAlert(
+                    self.guid, name, 10000, f'{diff}')
+        else:
+            self.last_color_detection_status = False
+            if self.last_color_detection_closed_status == False:
+                self.cv2.imwrite(name, frame2)
+                self.last_color_detection_closed_status = True
+                self.last_color_detection[str(self.guid)] = self.time.strftime(
+                    '%Y-%m-%d %H:%M:%S')
+                self.Requests.SendAlert(
+                    self.guid, name, 10003, f'{diff}')
+            print(
+                '------------------------------------------------------------------')
+            print(f'Kapı Kapalı! Guid: {self.guid} Değer: {tt}')
+            print(
+                '------------------------------------------------------------------')
 
     async def CameraStuff(self, cap):
         while True:
@@ -313,7 +326,6 @@ class Process:
                         for box in result.boxes:
                             class_id = box.cls[0].item()
                             class_name = result.names[box.cls[0].item()]
-                            print(f'Class Name: {class_name}')
                             cords = box.xyxy[0].tolist()
                             cords = [round(x) for x in cords]
                             conf = round(box.conf[0].item(), 2)
@@ -374,7 +386,6 @@ class Process:
                                 #         frame, class_name, left, top, right, bottom, conf, color)
 
                     if in_zone:
-                        print(f'Square: {self.squares}')
                         self.TakeScreenShot(
                             frame, alarm_type, detectionCount)
 

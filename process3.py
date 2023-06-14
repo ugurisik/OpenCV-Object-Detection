@@ -59,8 +59,8 @@ class Process:
             0: self.time.strftime(
                 '%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - 10))
         }
-        self.last_color_detection_status = False
-
+        self.last_color_detection_status = True
+        self.last_color_detection_closes_status = True
         self.model = model
 
         self.cap = self.cv2.VideoCapture(self.url)
@@ -176,66 +176,73 @@ class Process:
             return cap
 
     async def ColorDetection(self, frame, confi, zone, times):
+        frame2 = frame
         await self.asyncio.sleep(0.01)
-        if self.last_color_detection.get(str(self.guid)) is None:
-            self.last_color_detection[str(self.guid)] = self.time.strftime(
-                '%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - 1500))
-        if self.time.strftime('%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - times)) >= self.last_color_detection.get(str(self.guid)):
-            coordinates = self.np.array(zone,
-                                        self.np.int32)
-            for i in range(len(coordinates)):
-                x = coordinates[i][0]
-                y = coordinates[i][1]
-                xper = (x*self.video_width/100)
-                yper = (y*self.video_height/100)
-                coordinates[i] = (self.math.ceil(xper), self.math.ceil(yper))
-            poly = self.np.array(coordinates, dtype=self.np.int32)
-            self.cv2.polylines(frame, [poly],
-                               True, (0, 255, 0), 1)
-            name = f"{self.alerts_path}/{self.guid}_{self.time.strftime('%Y%m%d-%H-%M-%S')}.jpg"
-            self.cv2.imwrite(name, frame)
+        # if self.last_color_detection.get(str(self.guid)) is None:
+        #     self.last_color_detection[str(self.guid)] = self.time.strftime(
+        #         '%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - 1500))
+        # if self.time.strftime('%Y-%m-%d %H:%M:%S', self.time.localtime(time.time() - times)) >= self.last_color_detection.get(str(self.guid)):
+        coordinates = self.np.array(zone,
+                                    self.np.int32)
+        for i in range(len(coordinates)):
+            x = coordinates[i][0]
+            y = coordinates[i][1]
+            xper = (x*self.video_width/100)
+            yper = (y*self.video_height/100)
+            coordinates[i] = (self.math.ceil(xper), self.math.ceil(yper))
+        poly = self.np.array(coordinates, dtype=self.np.int32)
+        self.cv2.polylines(frame, [poly],
+                           True, (0, 255, 0), 1)
+        name = f"{self.alerts_path}/{self.guid}_{self.time.strftime('%Y%m%d-%H-%M-%S')}.jpg"
 
-            mask = self.np.zeros(frame.shape[:2], dtype=self.np.uint8)
-            self.cv2.fillPoly(mask, [poly], (255))
-            area_inside = self.cv2.bitwise_and(frame, frame, mask=mask)
-            area_inside_gray = self.cv2.cvtColor(
-                area_inside, self.cv2.COLOR_BGR2GRAY)
-            _, thresholded_area_inside = self.cv2.threshold(
-                area_inside_gray, 90, 255, self.cv2.THRESH_BINARY)
-            TotalPx = thresholded_area_inside.shape[0] * \
-                thresholded_area_inside.shape[1]
-            whitePX = self.cv2.countNonZero(thresholded_area_inside)
-            blackPx = TotalPx - whitePX
-            tt = (blackPx / whitePX)
+        mask = self.np.zeros(frame.shape[:2], dtype=self.np.uint8)
+        self.cv2.fillPoly(mask, [poly], (255))
+        area_inside = self.cv2.bitwise_and(frame, frame, mask=mask)
+        area_inside_gray = self.cv2.cvtColor(
+            area_inside, self.cv2.COLOR_BGR2GRAY)
+        _, thresholded_area_inside = self.cv2.threshold(
+            area_inside_gray, 90, 255, self.cv2.THRESH_BINARY)
+        TotalPx = thresholded_area_inside.shape[0] * \
+            thresholded_area_inside.shape[1]
+        whitePX = self.cv2.countNonZero(thresholded_area_inside)
+        blackPx = TotalPx - whitePX
+        tt = (blackPx / whitePX)
 
-            if (tt < confi):
-                print(
-                    '------------------------------------------------------------------')
-                print(f'Kapı Kapalı! Guid: {self.guid} Değer: {tt}')
-                print(
-                    '------------------------------------------------------------------')
-                self.last_color_detection_status = True
+        if (tt < confi):
+            print(
+                '------------------------------------------------------------------')
+            print(f'Kapı Kapalı! Guid: {self.guid} Değer: {tt}')
+            print(
+                '------------------------------------------------------------------')
+            self.last_color_detection_status = True
+            if self.last_color_detection_closes_status:
+                self.cv2.imwrite(name, frame2)
+                self.Requests.SendAlert(
+                    self.guid, name, 10003, 'Door Closed')
+                self.last_color_detection_closes_status = False
 
-                # if (self.last_color_detection_status == False):
-                #     self.last_color_detection_status = True
-                #     self.last_color_detection[str(self.guid)] = self.time.strftime(
-                #         '%Y-%m-%d %H:%M:%S')
-                #     self.Requests.SendAlert(
-                #         self.guid, name, 10001, 'Door Closed')
-            else:
-                if (self.last_color_detection_status == True):
-                    self.last_color_detection[str(self.guid)] = self.time.strftime(
-                        '%Y-%m-%d %H:%M:%S')
-                    self.last_color_detection_status = False
-                    self.Requests.SendAlert(
-                        self.guid, name, 10000, 'Door Opened')
-                else:
-                    os.remove(name)
-                print(
-                    '------------------------------------------------------------------')
-                print(f'Kapı Açık! Guid: {self.guid} Değer: {tt}')
-                print(
-                    '------------------------------------------------------------------')
+            # if (self.last_color_detection_status == False):
+            #     self.last_color_detection_status = True
+            #     self.last_color_detection[str(self.guid)] = self.time.strftime(
+            #         '%Y-%m-%d %H:%M:%S')
+            #     self.Requests.SendAlert(
+            #         self.guid, name, 10001, 'Door Closed')
+        else:
+            if (self.last_color_detection_status == True):
+                self.last_color_detection[str(self.guid)] = self.time.strftime(
+                    '%Y-%m-%d %H:%M:%S')
+                self.last_color_detection_status = False
+                self.last_color_detection_closes_status = True
+                self.cv2.imwrite(name, frame2)
+                self.Requests.SendAlert(
+                    self.guid, name, 10000, 'Door Opened')
+            # else:
+            #     os.remove(name)
+            print(
+                '------------------------------------------------------------------')
+            print(f'Kapı Açık! Guid: {self.guid} Değer: {tt}')
+            print(
+                '------------------------------------------------------------------')
 
     async def CameraStuff(self, cap):
         while True:
@@ -296,8 +303,7 @@ class Process:
                             for detect in self.detection:
                                 confi = detect['confidence']
                                 clss = detect['class']
-                                if class_name == clss and conf >= confi and conf < 1.0:
-
+                                if class_name == clss and conf >= confi and conf < 1.0 and class_name != 'door_open':
                                     if (self.zones == {} or self.zones == None):
                                         in_zone = True
                                         color = (0, 0, 255)
@@ -322,14 +328,14 @@ class Process:
                                         alarm_type = class_name
                                         self.DrawRectWithText(
                                             frame, class_name, left, top, right, bottom, conf, color)
-                                    else:
-                                        color = (0, 255, 0)
-                                    self.DrawRectWithText(
-                                        frame, class_name, left, top, right, bottom, conf, color)
-                                else:
-                                    color = (0, 255, 0)
-                                    self.DrawRectWithText(
-                                        frame, class_name, left, top, right, bottom, conf, color)
+                                    # else:
+                                    #     color = (0, 255, 0)
+                                    # self.DrawRectWithText(
+                                    #     frame, class_name, left, top, right, bottom, conf, color)
+                                # else:
+                                #     color = (0, 255, 0)
+                                #     self.DrawRectWithText(
+                                #         frame, class_name, left, top, right, bottom, conf, color)
                     if in_zone:
                         self.TakeScreenShot(
                             frame, alarm_type, detectionCount)

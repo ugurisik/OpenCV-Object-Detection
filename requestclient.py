@@ -74,7 +74,8 @@ class RequestClient:
                 response = self.requests.post(
                     url, files=files, data=data, timeout=(10, 200))
                 response.raise_for_status()  # Non-2xx status codes will raise an exception
-
+                self.logs.write_to_log(
+                    f'Alarm sending for GUID {guid} Alarm Type: {alarm_type} Now Detected: {now_detected} Response: {response.text} Image: {image_path}')
                 return True
             except Exception as e:
                 self.logs.write_to_log(e)

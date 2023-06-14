@@ -5,7 +5,7 @@ import time
 import requests
 
 
-uri = 'kapivepalet.mp4'
+uri = 'output.mp4'
 requestLink = 'https://safari.imeryazilim.com/pos/test'
 image_name = ''
 points = []  # Polygonun köşelerini tutacak bir liste
