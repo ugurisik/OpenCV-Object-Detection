@@ -13,24 +13,24 @@ import shutil
 logs = logs.Logs('log.txt')
 
 cameraList = {
-    # '1': {
-    #     'name': 'Bahçe',
-    #     'url': 0,
-    #     'zone': [(0, 0), (0, 50), (50, 50), (50, 0)],
-    #     'zones': {
-    #         '1': [(50, 50), (50, 100), (100, 100), (100, 50)],
-    #         '2': [(0, 0), (0, 49), (49, 49), (49, 0)]
-    #     },
-    #     'detection': [
-    #         {'class': 'person', 'confidence': 0.3},
-    #         {'class': 'ylk-yok', 'confidence': 0.4},
-    #         {'class': 'ksk-yok', 'confidence': 0.4},
-    #         {'class': 'ylk', 'confidence': 0.4},
-    #         {'class': 'ksk', 'confidence': 0.4},
-    #     ],
-    #
-    #     'alarm_sending_time': 10,
-    # },
+    '123': {
+        'name': 'Bahçe',
+        'url': 0,
+        'zone': [(0, 0), (0, 50), (50, 50), (50, 0)],
+        'zones': {
+            '1': [(50, 50), (50, 100), (100, 100), (100, 50)],
+            '2': [(0, 0), (0, 49), (49, 49), (49, 0)]
+        },
+        'detection': [
+            {'class': 'person', 'confidence': 0.3},
+            {'class': 'ylk-yok', 'confidence': 0.4},
+            {'class': 'ksk-yok', 'confidence': 0.4},
+            {'class': 'ylk', 'confidence': 0.4},
+            {'class': 'ksk', 'confidence': 0.4},
+        ],
+        'model': None,
+        'alarm_sending_time': 10,
+    },
     # '2': {
     #     'name': 'Bahçe',
     #     'url': 0,

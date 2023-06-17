@@ -13,7 +13,7 @@ import asyncio
 import logs
 from ultralytics import YOLO
 os.environ["OPENCV_LOG_LEVEL"] = "SILENT"
-
+print(cv2.__version__)
 
 # WeightPath = './weights/'
 # DefaultModel = 'best-6.pt'
@@ -269,7 +269,7 @@ class Process:
                 self.last_color_detection[str(self.guid)] = self.time.strftime(
                     '%Y-%m-%d %H:%M:%S')
                 self.Requests.SendAlert(
-                    self.guid, name, 10000, f'{diff}')
+                    self.guid, name, 10000, f'{diff}|Opened')
         else:
             self.last_color_detection_status = False
             if self.last_color_detection_closed_status == False:
@@ -278,7 +278,7 @@ class Process:
                 self.last_color_detection[str(self.guid)] = self.time.strftime(
                     '%Y-%m-%d %H:%M:%S')
                 self.Requests.SendAlert(
-                    self.guid, name, 10003, f'{diff}')
+                    self.guid, name, 10003, f'{diff}|Closed')
             print(
                 '------------------------------------------------------------------')
             print(f'Kapı Kapalı! Guid: {self.guid} Değer: {tt}')
@@ -341,7 +341,8 @@ class Process:
                             bottom = max(int(center[1]+(max_border/2)), 0)
 
                             color = (250, 250, 250)
-
+                            if width*2 >= self.video_width or height*2 >= self.video_height:
+                                continue
                             for detect in self.detection:
                                 confi = detect['confidence']
                                 clss = detect['class']

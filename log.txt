@@ -1,0 +1,212 @@
+--- Log inserted Time:2023-06-15 19:53:02  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-15 21:21:06  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-15 21:21:21  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-15 21:21:21  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-15 21:21:21  ---
+[Errno 2] No such file or directory: '12.jpg'
+--- Log inserted Time:2023-06-15 21:21:21  ---
+[Errno 2] No such file or directory: '11.jpg'
+--- Log inserted Time:2023-06-15 21:21:21  ---
+[Errno 2] No such file or directory: '10.jpg'
+--- Log inserted Time:2023-06-15 21:21:21  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-15 21:21:21  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-15 21:21:33  ---
+Alarm sending for GUID 9 Alarm Type: person Now Detected: 1 person Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/9_20230615-21-21-32.jpg
+--- Log inserted Time:2023-06-15 21:21:37  ---
+[Errno 2] No such file or directory: '12.jpg'
+--- Log inserted Time:2023-06-15 21:21:37  ---
+[Errno 2] No such file or directory: '11.jpg'
+--- Log inserted Time:2023-06-15 21:21:37  ---
+[Errno 2] No such file or directory: '10.jpg'
+--- Log inserted Time:2023-06-15 21:21:37  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-15 21:21:39  ---
+Alarm sending for GUID 12 Alarm Type: lkw Now Detected: 1 lkw Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/12_20230615-21-21-36.jpg
+--- Log inserted Time:2023-06-15 21:21:40  ---
+Alarm sending for GUID 10 Alarm Type: 10003 Now Detected: 1.0 Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/10_20230615-21-21-38.jpg
+--- Log inserted Time:2023-06-15 21:21:42  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-15 21:21:45  ---
+Alarm sending for GUID 11 Alarm Type: grey-palet Now Detected: 5 grey-palet Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/11_20230615-21-21-40.jpg
+--- Log inserted Time:2023-06-15 21:21:45  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-15 21:22:03  ---
+GUID: 10 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-15 21:22:07  ---
+GUID: 8 CameraProcess Error: The size of tensor a (4620) must match the size of tensor b (5040) at non-singleton dimension 2
+--- Log inserted Time:2023-06-15 21:22:09  ---
+Alarm sending for GUID 9 Alarm Type: person Now Detected: 1 person Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/9_20230615-21-22-07.jpg
+--- Log inserted Time:2023-06-15 21:22:10  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-15 21:22:15  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-15 21:22:40  ---
+Alarm sending for GUID 9 Alarm Type: person Now Detected: 1 person Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/9_20230615-21-22-39.jpg
+--- Log inserted Time:2023-06-15 21:22:43  ---
+Alarm sending for GUID 12 Alarm Type: lkw Now Detected: 1 lkw Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/12_20230615-21-22-42.jpg
+--- Log inserted Time:2023-06-15 21:22:44  ---
+Alarm sending for GUID 10 Alarm Type: 10003 Now Detected: 1.0 Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/10_20230615-21-22-42.jpg
+--- Log inserted Time:2023-06-15 21:22:44  ---
+Alarm sending for GUID 11 Alarm Type: grey-palet Now Detected: 5 grey-palet Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/11_20230615-21-22-43.jpg
+--- Log inserted Time:2023-06-15 21:22:56  ---
+GUID: 12 CameraProcess Error: The size of tensor a (5040) must match the size of tensor b (4620) at non-singleton dimension 2
+--- Log inserted Time:2023-06-15 21:23:01  ---
+Alarm sending for GUID 9 Alarm Type: person Now Detected: 1 person Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/9_20230615-21-23-00.jpg
+--- Log inserted Time:2023-06-15 21:23:13  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-15 21:55:32  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-15 21:55:47  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-15 21:55:47  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-15 21:55:47  ---
+[Errno 2] No such file or directory: '12.jpg'
+--- Log inserted Time:2023-06-15 21:55:47  ---
+[Errno 2] No such file or directory: '11.jpg'
+--- Log inserted Time:2023-06-15 21:55:47  ---
+[Errno 2] No such file or directory: '10.jpg'
+--- Log inserted Time:2023-06-15 21:55:47  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-15 21:55:47  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-15 21:56:03  ---
+Alarm sending for GUID 10 Alarm Type: 10003 Now Detected: 1.0 Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/10_20230615-21-55-57.jpg
+--- Log inserted Time:2023-06-15 21:56:05  ---
+Alarm sending for GUID 12 Alarm Type: lkw Now Detected: 1 lkw Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/12_20230615-21-56-01.jpg
+--- Log inserted Time:2023-06-15 21:56:06  ---
+[Errno 2] No such file or directory: '11.jpg'
+--- Log inserted Time:2023-06-15 21:56:06  ---
+Alarm sending for GUID 11 Alarm Type: grey-palet Now Detected: 5 grey-palet Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/11_20230615-21-56-03.jpg
+--- Log inserted Time:2023-06-15 21:56:07  ---
+Alarm sending for GUID 9 Alarm Type: person Now Detected: 1 person Response: {
+    "success": true,
+    "message": "now_detected_updated"
+} Image: ./alerts/9_20230615-21-56-05.jpg
+--- Log inserted Time:2023-06-15 21:56:08  ---
+--- Program Exited ---
+--- Log inserted Time:2023-06-16 01:15:52  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-16 01:15:52  ---
+'model'
+--- Log inserted Time:2023-06-16 01:16:13  ---
+--- Program Started ---
+--- Log inserted Time:2023-06-16 01:16:16  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-16 01:16:16  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-16 01:16:16  ---
+[Errno 2] No such file or directory: '12.jpg'
+--- Log inserted Time:2023-06-16 01:16:16  ---
+[Errno 2] No such file or directory: '11.jpg'
+--- Log inserted Time:2023-06-16 01:16:16  ---
+[Errno 2] No such file or directory: '10.jpg'
+--- Log inserted Time:2023-06-16 01:16:16  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-16 01:16:16  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-16 01:16:18  ---
+GUID: 12 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-16 01:16:18  ---
+GUID: 10 CameraProcess Error: 'Conv' object has no attribute 'bn'
+--- Log inserted Time:2023-06-16 01:16:20  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1775e5ed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:16:20  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1775e4390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:16:21  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1776c5810>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:16:21  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1776c4150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:16:30  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1776058d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:16:31  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-16 01:16:31  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-16 01:16:31  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-16 01:16:31  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-16 01:16:40  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x17776ef10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:16:46  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-16 01:16:46  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-16 01:16:46  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-16 01:16:46  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-16 01:16:51  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1776c5390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:17:02  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-16 01:17:02  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-16 01:17:02  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-16 01:17:02  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-16 01:17:02  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x17769de10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:17:12  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x17776d750>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:17:17  ---
+[Errno 2] No such file or directory: '8.jpg'
+--- Log inserted Time:2023-06-16 01:17:17  ---
+[Errno 2] No such file or directory: '9.jpg'
+--- Log inserted Time:2023-06-16 01:17:17  ---
+[Errno 2] No such file or directory: '5.jpg'
+--- Log inserted Time:2023-06-16 01:17:17  ---
+[Errno 2] No such file or directory: '1.jpg'
+--- Log inserted Time:2023-06-16 01:17:22  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x17776c750>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:17:28  ---
+HTTPSConnectionPool(host='securiteye.ai', port=443): Max retries exceeded with url: /API/detect.php (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x17776d890>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+--- Log inserted Time:2023-06-16 01:17:29  ---
+--- Program Exited ---
